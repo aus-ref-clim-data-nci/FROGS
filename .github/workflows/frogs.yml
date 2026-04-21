@@ -42,9 +42,6 @@ jobs:
           scp -i ~/.ssh/id_ed25519 \
             ${{ secrets.HPC_USER }}@${{ env.GADI_HOST }}:${{ env.GADI_LOGS }}/update_log.txt \
             logs/update_log.txt
-          scp -i ~/.ssh/id_ed25519 \
-            ${{ secrets.HPC_USER }}@${{ env.GADI_HOST }}:${{ env.GADI_LOGS }}/concat_log.txt \
-            logs/concat_log.txt
 
       - name: Commit and push logs
         if: always()
