@@ -18,15 +18,22 @@ and in particular to their news page for updates.
 
 ## Data download
 
-The data is downloaded from the [IPSL ftp site](https://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V1/), using the frogs.py python code available in this repository.
-Updates of the original data are sporadic, we check if any update is available with monthly frequency. Tha automated updates are managed via the [Jenkins accessdev server](https://accessdev.nci.org.au/jenkins/job/aus-ref-clim-data-nci/job/FROGs/).
+The data is downloaded from the [IPSL ftp site](https://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V1/), using the frogs.sh bash code available in this repository.
+Updates of the original data are sporadic, we check if any update is available with monthly frequency. Tha automated updates are managed via the GitHub action.
 
 ## Data location
 
-We've downloaded FROGS data to:
+We've downloaded 2 versions of the FROGS data to:
 
 ```
+# 1DD_V1:
+
 /g/data/ia39/aus-ref-clim-data-nci/frogs/data/1DD_V1/<dataset>/<files>
+
+# 1DD_V2
+
+/g/data/ia39/aus-ref-clim-data-nci/frogs/data/1DD_V2/<dataset>/<files>
+
 ```
 
 Each `<dataset>` is listed below depending on the source data type and spatial coverage.
