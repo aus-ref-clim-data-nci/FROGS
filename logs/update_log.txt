@@ -15017,3 +15017,1776 @@ File ‘TAPEER_v1.5/TAPEER-BRAIN-1-5.1DD.2019.nc’ already there; not retrievin
 File ‘TAPEER_v1.5/TAPEER-BRAIN-1-5.1DD.2020.nc’ already there; not retrieving.
 File ‘TAPEER_v1.5/TAPEER-BRAIN-1-5.1DD.2021.nc’ already there; not retrieving.
 [2026-04-21 20:30:08] Mirror complete
+[2026-05-01 14:42:08] Starting FROGs 1DD_V2 mirror
+[2026-05-01 14:42:08] Source : ftp://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V2/
+[2026-05-01 14:42:08] Target : /g/data/jt48/aus-ref-clim-data-nci/frogs/data/1DD_V2
+--2026-05-01 14:42:08--  ftp://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V2/
+           => ‘.listing’
+Resolving ftp.climserv.ipsl.polytechnique.fr (ftp.climserv.ipsl.polytechnique.fr)... 129.104.53.6
+Connecting to ftp.climserv.ipsl.polytechnique.fr (ftp.climserv.ipsl.polytechnique.fr)|129.104.53.6|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD (1) /FROGs/1DD_V2 ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                     27.8K=0.1s
+
+2026-05-01 14:42:14 (27.8 KB/s) - ‘.listing’ saved [3111]
+
+Removed ‘.listing’.
+--2026-05-01 14:42:14--  ftp://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V2/3B42_IR_v7.0/
+           => ‘3B42_IR_v7.0/.listing’
+==> CWD (1) /FROGs/1DD_V2/3B42_IR_v7.0 ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                     12.6K=0.1s
+
+2026-05-01 14:42:16 (12.6 KB/s) - ‘3B42_IR_v7.0/.listing’ saved [1833]
+
+Removed ‘3B42_IR_v7.0/.listing’.
+File ‘3B42_IR_v7.0/3B42v7_IR.1DD.1998.nc’ already there; not retrieving.
+File ‘3B42_IR_v7.0/3B42v7_IR.1DD.1999.nc’ already there; not retrieving.
+File ‘3B42_IR_v7.0/3B42v7_IR.1DD.2000.nc’ already there; not retrieving.
+File ‘3B42_IR_v7.0/3B42v7_IR.1DD.2001.nc’ already there; not retrieving.
+File ‘3B42_IR_v7.0/3B42v7_IR.1DD.2002.nc’ already there; not retrieving.
+File ‘3B42_IR_v7.0/3B42v7_IR.1DD.2003.nc’ already there; not retrieving.
+File ‘3B42_IR_v7.0/3B42v7_IR.1DD.2004.nc’ already there; not retrieving.
+File ‘3B42_IR_v7.0/3B42v7_IR.1DD.2005.nc’ already there; not retrieving.
+File ‘3B42_IR_v7.0/3B42v7_IR.1DD.2006.nc’ already there; not retrieving.
+File ‘3B42_IR_v7.0/3B42v7_IR.1DD.2007.nc’ already there; not retrieving.
+File ‘3B42_IR_v7.0/3B42v7_IR.1DD.2008.nc’ already there; not retrieving.
+File ‘3B42_IR_v7.0/3B42v7_IR.1DD.2009.nc’ already there; not retrieving.
+File ‘3B42_IR_v7.0/3B42v7_IR.1DD.2010.nc’ already there; not retrieving.
+File ‘3B42_IR_v7.0/3B42v7_IR.1DD.2011.nc’ already there; not retrieving.
+File ‘3B42_IR_v7.0/3B42v7_IR.1DD.2012.nc’ already there; not retrieving.
+File ‘3B42_IR_v7.0/3B42v7_IR.1DD.2013.nc’ already there; not retrieving.
+File ‘3B42_IR_v7.0/3B42v7_IR.1DD.2014.nc’ already there; not retrieving.
+File ‘3B42_IR_v7.0/3B42v7_IR.1DD.2015.nc’ already there; not retrieving.
+File ‘3B42_IR_v7.0/3B42v7_IR.1DD.2016.nc’ already there; not retrieving.
+File ‘3B42_IR_v7.0/3B42v7_IR.1DD.2017.nc’ already there; not retrieving.
+File ‘3B42_IR_v7.0/3B42v7_IR.1DD.2018.nc’ already there; not retrieving.
+File ‘3B42_IR_v7.0/3B42v7_IR.1DD.2019.nc’ already there; not retrieving.
+--2026-05-01 14:42:16--  ftp://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V2/3B42_MW_v7.0/
+           => ‘3B42_MW_v7.0/.listing’
+==> CWD (1) /FROGs/1DD_V2/3B42_MW_v7.0 ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                     28.3K=0.06s
+
+2026-05-01 14:42:18 (28.3 KB/s) - ‘3B42_MW_v7.0/.listing’ saved [1833]
+
+Removed ‘3B42_MW_v7.0/.listing’.
+File ‘3B42_MW_v7.0/3B42v7_MW.1DD.1998.nc’ already there; not retrieving.
+File ‘3B42_MW_v7.0/3B42v7_MW.1DD.1999.nc’ already there; not retrieving.
+File ‘3B42_MW_v7.0/3B42v7_MW.1DD.2000.nc’ already there; not retrieving.
+File ‘3B42_MW_v7.0/3B42v7_MW.1DD.2001.nc’ already there; not retrieving.
+File ‘3B42_MW_v7.0/3B42v7_MW.1DD.2002.nc’ already there; not retrieving.
+File ‘3B42_MW_v7.0/3B42v7_MW.1DD.2003.nc’ already there; not retrieving.
+File ‘3B42_MW_v7.0/3B42v7_MW.1DD.2004.nc’ already there; not retrieving.
+File ‘3B42_MW_v7.0/3B42v7_MW.1DD.2005.nc’ already there; not retrieving.
+File ‘3B42_MW_v7.0/3B42v7_MW.1DD.2006.nc’ already there; not retrieving.
+File ‘3B42_MW_v7.0/3B42v7_MW.1DD.2007.nc’ already there; not retrieving.
+File ‘3B42_MW_v7.0/3B42v7_MW.1DD.2008.nc’ already there; not retrieving.
+File ‘3B42_MW_v7.0/3B42v7_MW.1DD.2009.nc’ already there; not retrieving.
+File ‘3B42_MW_v7.0/3B42v7_MW.1DD.2010.nc’ already there; not retrieving.
+File ‘3B42_MW_v7.0/3B42v7_MW.1DD.2011.nc’ already there; not retrieving.
+File ‘3B42_MW_v7.0/3B42v7_MW.1DD.2012.nc’ already there; not retrieving.
+File ‘3B42_MW_v7.0/3B42v7_MW.1DD.2013.nc’ already there; not retrieving.
+File ‘3B42_MW_v7.0/3B42v7_MW.1DD.2014.nc’ already there; not retrieving.
+File ‘3B42_MW_v7.0/3B42v7_MW.1DD.2015.nc’ already there; not retrieving.
+File ‘3B42_MW_v7.0/3B42v7_MW.1DD.2016.nc’ already there; not retrieving.
+File ‘3B42_MW_v7.0/3B42v7_MW.1DD.2017.nc’ already there; not retrieving.
+File ‘3B42_MW_v7.0/3B42v7_MW.1DD.2018.nc’ already there; not retrieving.
+File ‘3B42_MW_v7.0/3B42v7_MW.1DD.2019.nc’ already there; not retrieving.
+--2026-05-01 14:42:18--  ftp://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V2/3B42RT_UNCAL_v7.0/
+           => ‘3B42RT_UNCAL_v7.0/.listing’
+==> CWD (1) /FROGs/1DD_V2/3B42RT_UNCAL_v7.0 ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                     25.8K=0.07s
+
+2026-05-01 14:42:19 (25.8 KB/s) - ‘3B42RT_UNCAL_v7.0/.listing’ saved [1777]
+
+Removed ‘3B42RT_UNCAL_v7.0/.listing’.
+File ‘3B42RT_UNCAL_v7.0/3B42RTv7_UNCAL.1DD.2000.nc’ already there; not retrieving.
+File ‘3B42RT_UNCAL_v7.0/3B42RTv7_UNCAL.1DD.2001.nc’ already there; not retrieving.
+File ‘3B42RT_UNCAL_v7.0/3B42RTv7_UNCAL.1DD.2002.nc’ already there; not retrieving.
+File ‘3B42RT_UNCAL_v7.0/3B42RTv7_UNCAL.1DD.2003.nc’ already there; not retrieving.
+File ‘3B42RT_UNCAL_v7.0/3B42RTv7_UNCAL.1DD.2004.nc’ already there; not retrieving.
+File ‘3B42RT_UNCAL_v7.0/3B42RTv7_UNCAL.1DD.2005.nc’ already there; not retrieving.
+File ‘3B42RT_UNCAL_v7.0/3B42RTv7_UNCAL.1DD.2006.nc’ already there; not retrieving.
+File ‘3B42RT_UNCAL_v7.0/3B42RTv7_UNCAL.1DD.2007.nc’ already there; not retrieving.
+File ‘3B42RT_UNCAL_v7.0/3B42RTv7_UNCAL.1DD.2008.nc’ already there; not retrieving.
+File ‘3B42RT_UNCAL_v7.0/3B42RTv7_UNCAL.1DD.2009.nc’ already there; not retrieving.
+File ‘3B42RT_UNCAL_v7.0/3B42RTv7_UNCAL.1DD.2010.nc’ already there; not retrieving.
+File ‘3B42RT_UNCAL_v7.0/3B42RTv7_UNCAL.1DD.2011.nc’ already there; not retrieving.
+File ‘3B42RT_UNCAL_v7.0/3B42RTv7_UNCAL.1DD.2012.nc’ already there; not retrieving.
+File ‘3B42RT_UNCAL_v7.0/3B42RTv7_UNCAL.1DD.2013.nc’ already there; not retrieving.
+File ‘3B42RT_UNCAL_v7.0/3B42RTv7_UNCAL.1DD.2014.nc’ already there; not retrieving.
+File ‘3B42RT_UNCAL_v7.0/3B42RTv7_UNCAL.1DD.2015.nc’ already there; not retrieving.
+File ‘3B42RT_UNCAL_v7.0/3B42RTv7_UNCAL.1DD.2016.nc’ already there; not retrieving.
+File ‘3B42RT_UNCAL_v7.0/3B42RTv7_UNCAL.1DD.2017.nc’ already there; not retrieving.
+File ‘3B42RT_UNCAL_v7.0/3B42RTv7_UNCAL.1DD.2018.nc’ already there; not retrieving.
+File ‘3B42RT_UNCAL_v7.0/3B42RTv7_UNCAL.1DD.2019.nc’ already there; not retrieving.
+--2026-05-01 14:42:20--  ftp://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V2/3B42RTv7/
+           => ‘3B42RTv7/.listing’
+==> CWD (1) /FROGs/1DD_V2/3B42RTv7 ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                     36.8K=0.04s
+
+2026-05-01 14:42:21 (36.8 KB/s) - ‘3B42RTv7/.listing’ saved [1657]
+
+Removed ‘3B42RTv7/.listing’.
+File ‘3B42RTv7/3B42RTv7.1DD.2000.nc’ already there; not retrieving.
+File ‘3B42RTv7/3B42RTv7.1DD.2001.nc’ already there; not retrieving.
+File ‘3B42RTv7/3B42RTv7.1DD.2002.nc’ already there; not retrieving.
+File ‘3B42RTv7/3B42RTv7.1DD.2003.nc’ already there; not retrieving.
+File ‘3B42RTv7/3B42RTv7.1DD.2004.nc’ already there; not retrieving.
+File ‘3B42RTv7/3B42RTv7.1DD.2005.nc’ already there; not retrieving.
+File ‘3B42RTv7/3B42RTv7.1DD.2006.nc’ already there; not retrieving.
+File ‘3B42RTv7/3B42RTv7.1DD.2007.nc’ already there; not retrieving.
+File ‘3B42RTv7/3B42RTv7.1DD.2008.nc’ already there; not retrieving.
+File ‘3B42RTv7/3B42RTv7.1DD.2009.nc’ already there; not retrieving.
+File ‘3B42RTv7/3B42RTv7.1DD.2010.nc’ already there; not retrieving.
+File ‘3B42RTv7/3B42RTv7.1DD.2011.nc’ already there; not retrieving.
+File ‘3B42RTv7/3B42RTv7.1DD.2012.nc’ already there; not retrieving.
+File ‘3B42RTv7/3B42RTv7.1DD.2013.nc’ already there; not retrieving.
+File ‘3B42RTv7/3B42RTv7.1DD.2014.nc’ already there; not retrieving.
+File ‘3B42RTv7/3B42RTv7.1DD.2015.nc’ already there; not retrieving.
+File ‘3B42RTv7/3B42RTv7.1DD.2016.nc’ already there; not retrieving.
+File ‘3B42RTv7/3B42RTv7.1DD.2017.nc’ already there; not retrieving.
+File ‘3B42RTv7/3B42RTv7.1DD.2018.nc’ already there; not retrieving.
+File ‘3B42RTv7/3B42RTv7.1DD.2019.nc’ already there; not retrieving.
+--2026-05-01 14:42:22--  ftp://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V2/3B42_v7.0/
+           => ‘3B42_v7.0/.listing’
+==> CWD (1) /FROGs/1DD_V2/3B42_v7.0 ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                     29.3K=0.06s
+
+2026-05-01 14:42:23 (29.3 KB/s) - ‘3B42_v7.0/.listing’ saved [1767]
+
+Removed ‘3B42_v7.0/.listing’.
+File ‘3B42_v7.0/3B42v7.1DD.1998.nc’ already there; not retrieving.
+File ‘3B42_v7.0/3B42v7.1DD.1999.nc’ already there; not retrieving.
+File ‘3B42_v7.0/3B42v7.1DD.2000.nc’ already there; not retrieving.
+File ‘3B42_v7.0/3B42v7.1DD.2001.nc’ already there; not retrieving.
+File ‘3B42_v7.0/3B42v7.1DD.2002.nc’ already there; not retrieving.
+File ‘3B42_v7.0/3B42v7.1DD.2003.nc’ already there; not retrieving.
+File ‘3B42_v7.0/3B42v7.1DD.2004.nc’ already there; not retrieving.
+File ‘3B42_v7.0/3B42v7.1DD.2005.nc’ already there; not retrieving.
+File ‘3B42_v7.0/3B42v7.1DD.2006.nc’ already there; not retrieving.
+File ‘3B42_v7.0/3B42v7.1DD.2007.nc’ already there; not retrieving.
+File ‘3B42_v7.0/3B42v7.1DD.2008.nc’ already there; not retrieving.
+File ‘3B42_v7.0/3B42v7.1DD.2009.nc’ already there; not retrieving.
+File ‘3B42_v7.0/3B42v7.1DD.2010.nc’ already there; not retrieving.
+File ‘3B42_v7.0/3B42v7.1DD.2011.nc’ already there; not retrieving.
+File ‘3B42_v7.0/3B42v7.1DD.2012.nc’ already there; not retrieving.
+File ‘3B42_v7.0/3B42v7.1DD.2013.nc’ already there; not retrieving.
+File ‘3B42_v7.0/3B42v7.1DD.2014.nc’ already there; not retrieving.
+File ‘3B42_v7.0/3B42v7.1DD.2015.nc’ already there; not retrieving.
+File ‘3B42_v7.0/3B42v7.1DD.2016.nc’ already there; not retrieving.
+File ‘3B42_v7.0/3B42v7.1DD.2017.nc’ already there; not retrieving.
+File ‘3B42_v7.0/3B42v7.1DD.2018.nc’ already there; not retrieving.
+File ‘3B42_v7.0/3B42v7.1DD.2019.nc’ already there; not retrieving.
+--2026-05-01 14:42:24--  ftp://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V2/ARC2/
+           => ‘ARC2/.listing’
+==> CWD (1) /FROGs/1DD_V2/ARC2 ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                     23.0K=0.1s
+
+2026-05-01 14:42:25 (23.0 KB/s) - ‘ARC2/.listing’ saved [3225]
+
+Removed ‘ARC2/.listing’.
+File ‘ARC2/ARCv2.1983.1DD.nc’ already there; not retrieving.
+File ‘ARC2/ARCv2.1984.1DD.nc’ already there; not retrieving.
+File ‘ARC2/ARCv2.1985.1DD.nc’ already there; not retrieving.
+File ‘ARC2/ARCv2.1986.1DD.nc’ already there; not retrieving.
+File ‘ARC2/ARCv2.1987.1DD.nc’ already there; not retrieving.
+File ‘ARC2/ARCv2.1988.1DD.nc’ already there; not retrieving.
+File ‘ARC2/ARCv2.1989.1DD.nc’ already there; not retrieving.
+File ‘ARC2/ARCv2.1990.1DD.nc’ already there; not retrieving.
+File ‘ARC2/ARCv2.1991.1DD.nc’ already there; not retrieving.
+File ‘ARC2/ARCv2.1992.1DD.nc’ already there; not retrieving.
+File ‘ARC2/ARCv2.1993.1DD.nc’ already there; not retrieving.
+File ‘ARC2/ARCv2.1994.1DD.nc’ already there; not retrieving.
+File ‘ARC2/ARCv2.1995.1DD.nc’ already there; not retrieving.
+File ‘ARC2/ARCv2.1996.1DD.nc’ already there; not retrieving.
+File ‘ARC2/ARCv2.1997.1DD.nc’ already there; not retrieving.
+File ‘ARC2/ARCv2.1998.1DD.nc’ already there; not retrieving.
+File ‘ARC2/ARCv2.1999.1DD.nc’ already there; not retrieving.
+File ‘ARC2/ARCv2.2000.1DD.nc’ already there; not retrieving.
+File ‘ARC2/ARCv2.2001.1DD.nc’ already there; not retrieving.
+File ‘ARC2/ARCv2.2002.1DD.nc’ already there; not retrieving.
+File ‘ARC2/ARCv2.2003.1DD.nc’ already there; not retrieving.
+File ‘ARC2/ARCv2.2004.1DD.nc’ already there; not retrieving.
+File ‘ARC2/ARCv2.2005.1DD.nc’ already there; not retrieving.
+File ‘ARC2/ARCv2.2006.1DD.nc’ already there; not retrieving.
+File ‘ARC2/ARCv2.2007.1DD.nc’ already there; not retrieving.
+File ‘ARC2/ARCv2.2008.1DD.nc’ already there; not retrieving.
+File ‘ARC2/ARCv2.2009.1DD.nc’ already there; not retrieving.
+File ‘ARC2/ARCv2.2010.1DD.nc’ already there; not retrieving.
+File ‘ARC2/ARCv2.2011.1DD.nc’ already there; not retrieving.
+File ‘ARC2/ARCv2.2012.1DD.nc’ already there; not retrieving.
+File ‘ARC2/ARCv2.2013.1DD.nc’ already there; not retrieving.
+File ‘ARC2/ARCv2.2014.1DD.nc’ already there; not retrieving.
+File ‘ARC2/ARCv2.2015.1DD.nc’ already there; not retrieving.
+File ‘ARC2/ARCv2.2016.1DD.nc’ already there; not retrieving.
+File ‘ARC2/ARCv2.2017.1DD.nc’ already there; not retrieving.
+File ‘ARC2/ARCv2.2018.1DD.nc’ already there; not retrieving.
+File ‘ARC2/ARCv2.2019.1DD.nc’ already there; not retrieving.
+File ‘ARC2/ARCv2.2020.1DD.nc’ already there; not retrieving.
+File ‘ARC2/ARCv2.2021.1DD.nc’ already there; not retrieving.
+File ‘ARC2/ARCv2.2022.1DD.nc’ already there; not retrieving.
+File ‘ARC2/ARCv2.2024.1DD.nc’ already there; not retrieving.
+File ‘ARC2/ARCv2.2025.1DD.nc’ already there; not retrieving.
+--2026-05-01 14:42:26--  ftp://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V2/CHIRPS_v2.0/
+           => ‘CHIRPS_v2.0/.listing’
+==> CWD (1) /FROGs/1DD_V2/CHIRPS_v2.0 ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                     41.8K=0.09s
+
+2026-05-01 14:42:27 (41.8 KB/s) - ‘CHIRPS_v2.0/.listing’ saved [3717]
+
+Removed ‘CHIRPS_v2.0/.listing’.
+File ‘CHIRPS_v2.0/chirps-v2.0.1DD.1981.nc’ already there; not retrieving.
+File ‘CHIRPS_v2.0/chirps-v2.0.1DD.1982.nc’ already there; not retrieving.
+File ‘CHIRPS_v2.0/chirps-v2.0.1DD.1983.nc’ already there; not retrieving.
+File ‘CHIRPS_v2.0/chirps-v2.0.1DD.1984.nc’ already there; not retrieving.
+File ‘CHIRPS_v2.0/chirps-v2.0.1DD.1985.nc’ already there; not retrieving.
+File ‘CHIRPS_v2.0/chirps-v2.0.1DD.1986.nc’ already there; not retrieving.
+File ‘CHIRPS_v2.0/chirps-v2.0.1DD.1987.nc’ already there; not retrieving.
+File ‘CHIRPS_v2.0/chirps-v2.0.1DD.1988.nc’ already there; not retrieving.
+File ‘CHIRPS_v2.0/chirps-v2.0.1DD.1989.nc’ already there; not retrieving.
+File ‘CHIRPS_v2.0/chirps-v2.0.1DD.1990.nc’ already there; not retrieving.
+File ‘CHIRPS_v2.0/chirps-v2.0.1DD.1991.nc’ already there; not retrieving.
+File ‘CHIRPS_v2.0/chirps-v2.0.1DD.1992.nc’ already there; not retrieving.
+File ‘CHIRPS_v2.0/chirps-v2.0.1DD.1993.nc’ already there; not retrieving.
+File ‘CHIRPS_v2.0/chirps-v2.0.1DD.1994.nc’ already there; not retrieving.
+File ‘CHIRPS_v2.0/chirps-v2.0.1DD.1995.nc’ already there; not retrieving.
+File ‘CHIRPS_v2.0/chirps-v2.0.1DD.1996.nc’ already there; not retrieving.
+File ‘CHIRPS_v2.0/chirps-v2.0.1DD.1997.nc’ already there; not retrieving.
+File ‘CHIRPS_v2.0/chirps-v2.0.1DD.1998.nc’ already there; not retrieving.
+File ‘CHIRPS_v2.0/chirps-v2.0.1DD.1999.nc’ already there; not retrieving.
+File ‘CHIRPS_v2.0/chirps-v2.0.1DD.2000.nc’ already there; not retrieving.
+File ‘CHIRPS_v2.0/chirps-v2.0.1DD.2001.nc’ already there; not retrieving.
+File ‘CHIRPS_v2.0/chirps-v2.0.1DD.2002.nc’ already there; not retrieving.
+File ‘CHIRPS_v2.0/chirps-v2.0.1DD.2003.nc’ already there; not retrieving.
+File ‘CHIRPS_v2.0/chirps-v2.0.1DD.2004.nc’ already there; not retrieving.
+File ‘CHIRPS_v2.0/chirps-v2.0.1DD.2005.nc’ already there; not retrieving.
+File ‘CHIRPS_v2.0/chirps-v2.0.1DD.2006.nc’ already there; not retrieving.
+File ‘CHIRPS_v2.0/chirps-v2.0.1DD.2007.nc’ already there; not retrieving.
+File ‘CHIRPS_v2.0/chirps-v2.0.1DD.2008.nc’ already there; not retrieving.
+File ‘CHIRPS_v2.0/chirps-v2.0.1DD.2009.nc’ already there; not retrieving.
+File ‘CHIRPS_v2.0/chirps-v2.0.1DD.2010.nc’ already there; not retrieving.
+File ‘CHIRPS_v2.0/chirps-v2.0.1DD.2011.nc’ already there; not retrieving.
+File ‘CHIRPS_v2.0/chirps-v2.0.1DD.2012.nc’ already there; not retrieving.
+File ‘CHIRPS_v2.0/chirps-v2.0.1DD.2013.nc’ already there; not retrieving.
+File ‘CHIRPS_v2.0/chirps-v2.0.1DD.2014.nc’ already there; not retrieving.
+File ‘CHIRPS_v2.0/chirps-v2.0.1DD.2015.nc’ already there; not retrieving.
+File ‘CHIRPS_v2.0/chirps-v2.0.1DD.2016.nc’ already there; not retrieving.
+File ‘CHIRPS_v2.0/chirps-v2.0.1DD.2017.nc’ already there; not retrieving.
+File ‘CHIRPS_v2.0/chirps-v2.0.1DD.2018.nc’ already there; not retrieving.
+File ‘CHIRPS_v2.0/chirps-v2.0.1DD.2019.nc’ already there; not retrieving.
+File ‘CHIRPS_v2.0/chirps-v2.0.1DD.2020.nc’ already there; not retrieving.
+File ‘CHIRPS_v2.0/chirps-v2.0.1DD.2021.nc’ already there; not retrieving.
+File ‘CHIRPS_v2.0/chirps-v2.0.1DD.2022.nc’ already there; not retrieving.
+File ‘CHIRPS_v2.0/chirps-v2.0.1DD.2023.nc’ already there; not retrieving.
+File ‘CHIRPS_v2.0/chirps-v2.0.1DD.2024.nc’ already there; not retrieving.
+File ‘CHIRPS_v2.0/chirps-v2.0.1DD.2025.nc’ already there; not retrieving.
+--2026-05-01 14:42:28--  ftp://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V2/CHIRP_V1/
+           => ‘CHIRP_V1/.listing’
+==> CWD (1) /FROGs/1DD_V2/CHIRP_V1 ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                     20.8K=0.2s
+
+2026-05-01 14:42:30 (20.8 KB/s) - ‘CHIRP_V1/.listing’ saved [3447]
+
+Removed ‘CHIRP_V1/.listing’.
+File ‘CHIRP_V1/chirp.1DD.1981.nc’ already there; not retrieving.
+File ‘CHIRP_V1/chirp.1DD.1982.nc’ already there; not retrieving.
+File ‘CHIRP_V1/chirp.1DD.1983.nc’ already there; not retrieving.
+File ‘CHIRP_V1/chirp.1DD.1984.nc’ already there; not retrieving.
+File ‘CHIRP_V1/chirp.1DD.1985.nc’ already there; not retrieving.
+File ‘CHIRP_V1/chirp.1DD.1986.nc’ already there; not retrieving.
+File ‘CHIRP_V1/chirp.1DD.1987.nc’ already there; not retrieving.
+File ‘CHIRP_V1/chirp.1DD.1988.nc’ already there; not retrieving.
+File ‘CHIRP_V1/chirp.1DD.1989.nc’ already there; not retrieving.
+File ‘CHIRP_V1/chirp.1DD.1990.nc’ already there; not retrieving.
+File ‘CHIRP_V1/chirp.1DD.1991.nc’ already there; not retrieving.
+File ‘CHIRP_V1/chirp.1DD.1992.nc’ already there; not retrieving.
+File ‘CHIRP_V1/chirp.1DD.1993.nc’ already there; not retrieving.
+File ‘CHIRP_V1/chirp.1DD.1994.nc’ already there; not retrieving.
+File ‘CHIRP_V1/chirp.1DD.1995.nc’ already there; not retrieving.
+File ‘CHIRP_V1/chirp.1DD.1996.nc’ already there; not retrieving.
+File ‘CHIRP_V1/chirp.1DD.1997.nc’ already there; not retrieving.
+File ‘CHIRP_V1/chirp.1DD.1998.nc’ already there; not retrieving.
+File ‘CHIRP_V1/chirp.1DD.1999.nc’ already there; not retrieving.
+File ‘CHIRP_V1/chirp.1DD.2000.nc’ already there; not retrieving.
+File ‘CHIRP_V1/chirp.1DD.2001.nc’ already there; not retrieving.
+File ‘CHIRP_V1/chirp.1DD.2002.nc’ already there; not retrieving.
+File ‘CHIRP_V1/chirp.1DD.2003.nc’ already there; not retrieving.
+File ‘CHIRP_V1/chirp.1DD.2004.nc’ already there; not retrieving.
+File ‘CHIRP_V1/chirp.1DD.2005.nc’ already there; not retrieving.
+File ‘CHIRP_V1/chirp.1DD.2006.nc’ already there; not retrieving.
+File ‘CHIRP_V1/chirp.1DD.2007.nc’ already there; not retrieving.
+File ‘CHIRP_V1/chirp.1DD.2008.nc’ already there; not retrieving.
+File ‘CHIRP_V1/chirp.1DD.2009.nc’ already there; not retrieving.
+File ‘CHIRP_V1/chirp.1DD.2010.nc’ already there; not retrieving.
+File ‘CHIRP_V1/chirp.1DD.2011.nc’ already there; not retrieving.
+File ‘CHIRP_V1/chirp.1DD.2012.nc’ already there; not retrieving.
+File ‘CHIRP_V1/chirp.1DD.2013.nc’ already there; not retrieving.
+File ‘CHIRP_V1/chirp.1DD.2014.nc’ already there; not retrieving.
+File ‘CHIRP_V1/chirp.1DD.2015.nc’ already there; not retrieving.
+File ‘CHIRP_V1/chirp.1DD.2016.nc’ already there; not retrieving.
+File ‘CHIRP_V1/chirp.1DD.2017.nc’ already there; not retrieving.
+File ‘CHIRP_V1/chirp.1DD.2018.nc’ already there; not retrieving.
+File ‘CHIRP_V1/chirp.1DD.2019.nc’ already there; not retrieving.
+File ‘CHIRP_V1/chirp.1DD.2020.nc’ already there; not retrieving.
+File ‘CHIRP_V1/chirp.1DD.2021.nc’ already there; not retrieving.
+File ‘CHIRP_V1/chirp.1DD.2022.nc’ already there; not retrieving.
+File ‘CHIRP_V1/chirp.1DD.2023.nc’ already there; not retrieving.
+File ‘CHIRP_V1/chirp.1DD.2024.nc’ already there; not retrieving.
+File ‘CHIRP_V1/chirp.1DD.2025.nc’ already there; not retrieving.
+--2026-05-01 14:42:30--  ftp://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V2/CMORPH_v1.0_CRT/
+           => ‘CMORPH_v1.0_CRT/.listing’
+==> CWD (1) /FROGs/1DD_V2/CMORPH_v1.0_CRT ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                     31.4K=0.07s
+
+2026-05-01 14:42:32 (31.4 KB/s) - ‘CMORPH_v1.0_CRT/.listing’ saved [2277]
+
+Removed ‘CMORPH_v1.0_CRT/.listing’.
+File ‘CMORPH_v1.0_CRT/CMORPH_V1.0.1DD.1998.nc’ already there; not retrieving.
+File ‘CMORPH_v1.0_CRT/CMORPH_V1.0.1DD.1999.nc’ already there; not retrieving.
+File ‘CMORPH_v1.0_CRT/CMORPH_V1.0.1DD.2000.nc’ already there; not retrieving.
+File ‘CMORPH_v1.0_CRT/CMORPH_V1.0.1DD.2001.nc’ already there; not retrieving.
+File ‘CMORPH_v1.0_CRT/CMORPH_V1.0.1DD.2002.nc’ already there; not retrieving.
+File ‘CMORPH_v1.0_CRT/CMORPH_V1.0.1DD.2003.nc’ already there; not retrieving.
+File ‘CMORPH_v1.0_CRT/CMORPH_V1.0.1DD.2004.nc’ already there; not retrieving.
+File ‘CMORPH_v1.0_CRT/CMORPH_V1.0.1DD.2005.nc’ already there; not retrieving.
+File ‘CMORPH_v1.0_CRT/CMORPH_V1.0.1DD.2006.nc’ already there; not retrieving.
+File ‘CMORPH_v1.0_CRT/CMORPH_V1.0.1DD.2007.nc’ already there; not retrieving.
+File ‘CMORPH_v1.0_CRT/CMORPH_V1.0.1DD.2008.nc’ already there; not retrieving.
+File ‘CMORPH_v1.0_CRT/CMORPH_V1.0.1DD.2009.nc’ already there; not retrieving.
+File ‘CMORPH_v1.0_CRT/CMORPH_V1.0.1DD.2010.nc’ already there; not retrieving.
+File ‘CMORPH_v1.0_CRT/CMORPH_V1.0.1DD.2011.nc’ already there; not retrieving.
+File ‘CMORPH_v1.0_CRT/CMORPH_V1.0.1DD.2012.nc’ already there; not retrieving.
+File ‘CMORPH_v1.0_CRT/CMORPH_V1.0.1DD.2013.nc’ already there; not retrieving.
+File ‘CMORPH_v1.0_CRT/CMORPH_V1.0.1DD.2014.nc’ already there; not retrieving.
+File ‘CMORPH_v1.0_CRT/CMORPH_V1.0.1DD.2015.nc’ already there; not retrieving.
+File ‘CMORPH_v1.0_CRT/CMORPH_V1.0.1DD.2016.nc’ already there; not retrieving.
+File ‘CMORPH_v1.0_CRT/CMORPH_V1.0.1DD.2017.nc’ already there; not retrieving.
+File ‘CMORPH_v1.0_CRT/CMORPH_V1.0.1DD.2018.nc’ already there; not retrieving.
+File ‘CMORPH_v1.0_CRT/CMORPH_V1.0.1DD.2019.nc’ already there; not retrieving.
+File ‘CMORPH_v1.0_CRT/CMORPH_V1.0.1DD.2020.nc’ already there; not retrieving.
+File ‘CMORPH_v1.0_CRT/CMORPH_V1.0.1DD.2021.nc’ already there; not retrieving.
+File ‘CMORPH_v1.0_CRT/CMORPH_V1.0.1DD.2022.nc’ already there; not retrieving.
+File ‘CMORPH_v1.0_CRT/CMORPH_V1.0.1DD.2023.nc’ already there; not retrieving.
+File ‘CMORPH_v1.0_CRT/CMORPH_V1.0.1DD.2024.nc’ already there; not retrieving.
+--2026-05-01 14:42:32--  ftp://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V2/CMORPH_v1.0_RAW/
+           => ‘CMORPH_v1.0_RAW/.listing’
+==> CWD (1) /FROGs/1DD_V2/CMORPH_v1.0_RAW ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                     21.1K=0.08s
+
+2026-05-01 14:42:34 (21.1 KB/s) - ‘CMORPH_v1.0_RAW/.listing’ saved [1717]
+
+Removed ‘CMORPH_v1.0_RAW/.listing’.
+File ‘CMORPH_v1.0_RAW/CMORPH_V1.0.1DD.1998.nc’ already there; not retrieving.
+File ‘CMORPH_v1.0_RAW/CMORPH_V1.0.1DD.1999.nc’ already there; not retrieving.
+File ‘CMORPH_v1.0_RAW/CMORPH_V1.0.1DD.2000.nc’ already there; not retrieving.
+File ‘CMORPH_v1.0_RAW/CMORPH_V1.0.1DD.2001.nc’ already there; not retrieving.
+File ‘CMORPH_v1.0_RAW/CMORPH_V1.0.1DD.2002.nc’ already there; not retrieving.
+File ‘CMORPH_v1.0_RAW/CMORPH_V1.0.1DD.2003.nc’ already there; not retrieving.
+File ‘CMORPH_v1.0_RAW/CMORPH_V1.0.1DD.2004.nc’ already there; not retrieving.
+File ‘CMORPH_v1.0_RAW/CMORPH_V1.0.1DD.2005.nc’ already there; not retrieving.
+File ‘CMORPH_v1.0_RAW/CMORPH_V1.0.1DD.2006.nc’ already there; not retrieving.
+File ‘CMORPH_v1.0_RAW/CMORPH_V1.0.1DD.2007.nc’ already there; not retrieving.
+File ‘CMORPH_v1.0_RAW/CMORPH_V1.0.1DD.2008.nc’ already there; not retrieving.
+File ‘CMORPH_v1.0_RAW/CMORPH_V1.0.1DD.2009.nc’ already there; not retrieving.
+File ‘CMORPH_v1.0_RAW/CMORPH_V1.0.1DD.2010.nc’ already there; not retrieving.
+File ‘CMORPH_v1.0_RAW/CMORPH_V1.0.1DD.2011.nc’ already there; not retrieving.
+File ‘CMORPH_v1.0_RAW/CMORPH_V1.0.1DD.2012.nc’ already there; not retrieving.
+File ‘CMORPH_v1.0_RAW/CMORPH_V1.0.1DD.2013.nc’ already there; not retrieving.
+File ‘CMORPH_v1.0_RAW/CMORPH_V1.0.1DD.2014.nc’ already there; not retrieving.
+File ‘CMORPH_v1.0_RAW/CMORPH_V1.0.1DD.2015.nc’ already there; not retrieving.
+File ‘CMORPH_v1.0_RAW/CMORPH_V1.0.1DD.2016.nc’ already there; not retrieving.
+File ‘CMORPH_v1.0_RAW/CMORPH_V1.0.1DD.2017.nc’ already there; not retrieving.
+--2026-05-01 14:42:34--  ftp://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V2/COSCH/
+           => ‘COSCH/.listing’
+==> CWD (1) /FROGs/1DD_V2/COSCH ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                     13.0K=0.009s
+
+2026-05-01 14:42:36 (13.0 KB/s) - ‘COSCH/.listing’ saved [117]
+
+Removed ‘COSCH/.listing’.
+--2026-05-01 14:42:36--  ftp://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V2/CPC/
+           => ‘CPC/.listing’
+==> CWD (1) /FROGs/1DD_V2/CPC ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                     26.0K=0.1s
+
+2026-05-01 14:42:37 (26.0 KB/s) - ‘CPC/.listing’ saved [3501]
+
+Removed ‘CPC/.listing’.
+File ‘CPC/CPC.1DD.1979.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.1980.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.1981.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.1982.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.1983.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.1984.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.1985.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.1986.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.1987.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.1988.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.1989.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.1990.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.1991.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.1992.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.1993.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.1994.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.1995.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.1996.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.1997.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.1998.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.1999.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.2000.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.2001.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.2002.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.2003.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.2004.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.2005.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.2006.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.2007.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.2008.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.2009.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.2010.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.2011.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.2012.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.2013.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.2014.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.2015.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.2016.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.2017.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.2018.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.2019.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.2020.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.2021.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.2022.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.2023.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.2024.nc’ already there; not retrieving.
+File ‘CPC/CPC.1DD.2025.nc’ already there; not retrieving.
+--2026-05-01 14:42:38--  ftp://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V2/ERA5/
+           => ‘ERA5/.listing’
+==> CWD (1) /FROGs/1DD_V2/ERA5 ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                     16.6K=0.5s
+
+2026-05-01 14:42:40 (16.6 KB/s) - ‘ERA5/.listing’ saved [9061]
+
+Removed ‘ERA5/.listing’.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19400101-19401231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19410101-19411231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19420101-19421231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19430101-19431231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19440101-19441231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19450101-19451231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19460101-19461231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19470101-19471231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19480101-19481231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19490101-19491231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19500101-19501231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19510101-19511231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19520101-19521231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19530101-19531231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19540101-19541231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19550101-19551231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19560101-19561231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19570101-19571231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19580101-19581231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19590101-19591231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19600101-19601231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19610101-19611231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19620101-19621231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19630101-19631231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19640101-19641231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19650101-19651231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19660101-19661231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19670101-19671231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19680101-19681231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19690101-19691231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19700101-19701231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19710101-19711231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19720101-19721231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19730101-19731231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19740101-19741231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19750101-19751231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19760101-19761231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19770101-19771231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19780101-19781231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19790101-19791231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19800101-19801231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19810101-19811231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19820101-19821231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19830101-19831231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19840101-19841231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19850101-19851231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19860101-19861231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19870101-19871231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19880101-19881231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19890101-19891231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19900101-19901231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19910101-19911231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19920101-19921231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19930101-19931231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19940101-19941231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19950101-19951231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19960101-19961231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19970101-19971231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19980101-19981231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_19990101-19991231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_20000101-20001231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_20010101-20011231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_20020101-20021231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_20030101-20031231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_20040101-20041231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_20050101-20051231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_20060101-20061231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_20070101-20071231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_20080101-20081231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_20090101-20091231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_20100101-20101231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_20110101-20111231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_20120101-20121231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_20130101-20131231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_20140101-20141231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_20150101-20151231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_20160101-20161231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_20170101-20171231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_20180101-20181231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_20190101-20191231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_20200101-20201231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_20210101-20211231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_20220101-20221231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_20230101-20231231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_20240101-20241231.nc’ already there; not retrieving.
+File ‘ERA5/pr_day_1x1_reanalysis_ERA5_20250101-20251231.nc’ already there; not retrieving.
+--2026-05-01 14:42:42--  ftp://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V2/GIRAFE/
+           => ‘GIRAFE/.listing’
+==> CWD (1) /FROGs/1DD_V2/GIRAFE ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                     22.4K=0.08s
+
+2026-05-01 14:42:43 (22.4 KB/s) - ‘GIRAFE/.listing’ saved [1839]
+
+Removed ‘GIRAFE/.listing’.
+File ‘GIRAFE/PREdm2002_120IMPGS01GL.nc’ already there; not retrieving.
+File ‘GIRAFE/PREdm2003_120IMPGS01GL.nc’ already there; not retrieving.
+File ‘GIRAFE/PREdm2004_120IMPGS01GL.nc’ already there; not retrieving.
+File ‘GIRAFE/PREdm2005_120IMPGS01GL.nc’ already there; not retrieving.
+File ‘GIRAFE/PREdm2006_120IMPGS01GL.nc’ already there; not retrieving.
+File ‘GIRAFE/PREdm2007_120IMPGS01GL.nc’ already there; not retrieving.
+File ‘GIRAFE/PREdm2008_120IMPGS01GL.nc’ already there; not retrieving.
+File ‘GIRAFE/PREdm2009_120IMPGS01GL.nc’ already there; not retrieving.
+File ‘GIRAFE/PREdm2010_120IMPGS01GL.nc’ already there; not retrieving.
+File ‘GIRAFE/PREdm2011_120IMPGS01GL.nc’ already there; not retrieving.
+File ‘GIRAFE/PREdm2012_120IMPGS01GL.nc’ already there; not retrieving.
+File ‘GIRAFE/PREdm2013_120IMPGS01GL.nc’ already there; not retrieving.
+File ‘GIRAFE/PREdm2014_120IMPGS01GL.nc’ already there; not retrieving.
+File ‘GIRAFE/PREdm2015_120IMPGS01GL.nc’ already there; not retrieving.
+File ‘GIRAFE/PREdm2016_120IMPGS01GL.nc’ already there; not retrieving.
+File ‘GIRAFE/PREdm2017_120IMPGS01GL.nc’ already there; not retrieving.
+File ‘GIRAFE/PREdm2018_120IMPGS01GL.nc’ already there; not retrieving.
+File ‘GIRAFE/PREdm2019_120IMPGS01GL.nc’ already there; not retrieving.
+File ‘GIRAFE/PREdm2020_120IMPGS01GL.nc’ already there; not retrieving.
+File ‘GIRAFE/PREdm2021_120IMPGS01GL.nc’ already there; not retrieving.
+File ‘GIRAFE/PREdm2022_120IMPGS01GL.nc’ already there; not retrieving.
+--2026-05-01 14:42:43--  ftp://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V2/GPCC_FDD_v1.0/
+           => ‘GPCC_FDD_v1.0/.listing’
+==> CWD (1) /FROGs/1DD_V2/GPCC_FDD_v1.0 ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                     22.4K=0.1s
+
+2026-05-01 14:42:45 (22.4 KB/s) - ‘GPCC_FDD_v1.0/.listing’ saved [2197]
+
+Removed ‘GPCC_FDD_v1.0/.listing’.
+File ‘GPCC_FDD_v1.0/full_data_daily_1988.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v1.0/full_data_daily_1989.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v1.0/full_data_daily_1990.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v1.0/full_data_daily_1991.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v1.0/full_data_daily_1992.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v1.0/full_data_daily_1993.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v1.0/full_data_daily_1994.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v1.0/full_data_daily_1995.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v1.0/full_data_daily_1996.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v1.0/full_data_daily_1997.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v1.0/full_data_daily_1998.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v1.0/full_data_daily_1999.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v1.0/full_data_daily_2000.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v1.0/full_data_daily_2001.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v1.0/full_data_daily_2002.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v1.0/full_data_daily_2003.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v1.0/full_data_daily_2004.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v1.0/full_data_daily_2005.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v1.0/full_data_daily_2006.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v1.0/full_data_daily_2007.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v1.0/full_data_daily_2008.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v1.0/full_data_daily_2009.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v1.0/full_data_daily_2010.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v1.0/full_data_daily_2011.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v1.0/full_data_daily_2012.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v1.0/full_data_daily_2013.nc’ already there; not retrieving.
+--2026-05-01 14:42:45--  ftp://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V2/GPCC_FDD_v2018/
+           => ‘GPCC_FDD_v2018/.listing’
+==> CWD (1) /FROGs/1DD_V2/GPCC_FDD_v2018 ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                     28.8K=0.1s
+
+2026-05-01 14:42:46 (28.8 KB/s) - ‘GPCC_FDD_v2018/.listing’ saved [3022]
+
+Removed ‘GPCC_FDD_v2018/.listing’.
+File ‘GPCC_FDD_v2018/GPCC_FDD_v2018.1DD.1982.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2018/GPCC_FDD_v2018.1DD.1983.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2018/GPCC_FDD_v2018.1DD.1984.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2018/GPCC_FDD_v2018.1DD.1985.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2018/GPCC_FDD_v2018.1DD.1986.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2018/GPCC_FDD_v2018.1DD.1987.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2018/GPCC_FDD_v2018.1DD.1988.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2018/GPCC_FDD_v2018.1DD.1989.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2018/GPCC_FDD_v2018.1DD.1990.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2018/GPCC_FDD_v2018.1DD.1991.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2018/GPCC_FDD_v2018.1DD.1992.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2018/GPCC_FDD_v2018.1DD.1993.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2018/GPCC_FDD_v2018.1DD.1994.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2018/GPCC_FDD_v2018.1DD.1995.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2018/GPCC_FDD_v2018.1DD.1996.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2018/GPCC_FDD_v2018.1DD.1997.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2018/GPCC_FDD_v2018.1DD.1998.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2018/GPCC_FDD_v2018.1DD.1999.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2018/GPCC_FDD_v2018.1DD.2000.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2018/GPCC_FDD_v2018.1DD.2001.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2018/GPCC_FDD_v2018.1DD.2002.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2018/GPCC_FDD_v2018.1DD.2003.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2018/GPCC_FDD_v2018.1DD.2004.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2018/GPCC_FDD_v2018.1DD.2005.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2018/GPCC_FDD_v2018.1DD.2006.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2018/GPCC_FDD_v2018.1DD.2007.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2018/GPCC_FDD_v2018.1DD.2008.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2018/GPCC_FDD_v2018.1DD.2009.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2018/GPCC_FDD_v2018.1DD.2010.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2018/GPCC_FDD_v2018.1DD.2011.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2018/GPCC_FDD_v2018.1DD.2012.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2018/GPCC_FDD_v2018.1DD.2013.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2018/GPCC_FDD_v2018.1DD.2014.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2018/GPCC_FDD_v2018.1DD.2015.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2018/GPCC_FDD_v2018.1DD.2016.nc’ already there; not retrieving.
+--2026-05-01 14:42:47--  ftp://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V2/GPCC_FDD_v2020/
+           => ‘GPCC_FDD_v2020/.listing’
+==> CWD (1) /FROGs/1DD_V2/GPCC_FDD_v2020 ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                     22.8K=0.1s
+
+2026-05-01 14:42:48 (22.8 KB/s) - ‘GPCC_FDD_v2020/.listing’ saved [3271]
+
+Removed ‘GPCC_FDD_v2020/.listing’.
+File ‘GPCC_FDD_v2020/gpcc_FDD_v2020.1DD.1982.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2020/gpcc_FDD_v2020.1DD.1983.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2020/gpcc_FDD_v2020.1DD.1984.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2020/gpcc_FDD_v2020.1DD.1985.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2020/gpcc_FDD_v2020.1DD.1986.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2020/gpcc_FDD_v2020.1DD.1987.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2020/gpcc_FDD_v2020.1DD.1988.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2020/gpcc_FDD_v2020.1DD.1989.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2020/gpcc_FDD_v2020.1DD.1990.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2020/gpcc_FDD_v2020.1DD.1991.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2020/gpcc_FDD_v2020.1DD.1992.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2020/gpcc_FDD_v2020.1DD.1993.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2020/gpcc_FDD_v2020.1DD.1994.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2020/gpcc_FDD_v2020.1DD.1995.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2020/gpcc_FDD_v2020.1DD.1996.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2020/gpcc_FDD_v2020.1DD.1997.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2020/gpcc_FDD_v2020.1DD.1998.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2020/gpcc_FDD_v2020.1DD.1999.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2020/gpcc_FDD_v2020.1DD.2000.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2020/gpcc_FDD_v2020.1DD.2001.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2020/gpcc_FDD_v2020.1DD.2002.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2020/gpcc_FDD_v2020.1DD.2003.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2020/gpcc_FDD_v2020.1DD.2004.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2020/gpcc_FDD_v2020.1DD.2005.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2020/gpcc_FDD_v2020.1DD.2006.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2020/gpcc_FDD_v2020.1DD.2007.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2020/gpcc_FDD_v2020.1DD.2008.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2020/gpcc_FDD_v2020.1DD.2009.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2020/gpcc_FDD_v2020.1DD.2010.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2020/gpcc_FDD_v2020.1DD.2011.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2020/gpcc_FDD_v2020.1DD.2012.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2020/gpcc_FDD_v2020.1DD.2013.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2020/gpcc_FDD_v2020.1DD.2014.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2020/gpcc_FDD_v2020.1DD.2015.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2020/gpcc_FDD_v2020.1DD.2016.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2020/gpcc_FDD_v2020.1DD.2017.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2020/gpcc_FDD_v2020.1DD.2018.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2020/gpcc_FDD_v2020.1DD.2019.nc’ already there; not retrieving.
+--2026-05-01 14:42:49--  ftp://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V2/GPCC_FDD_v2022/
+           => ‘GPCC_FDD_v2022/.listing’
+==> CWD (1) /FROGs/1DD_V2/GPCC_FDD_v2022 ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                     34.5K=0.1s
+
+2026-05-01 14:42:51 (34.5 KB/s) - ‘GPCC_FDD_v2022/.listing’ saved [3392]
+
+Removed ‘GPCC_FDD_v2022/.listing’.
+File ‘GPCC_FDD_v2022/gpcc_FDD_v2022.1DD.1982.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2022/gpcc_FDD_v2022.1DD.1983.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2022/gpcc_FDD_v2022.1DD.1984.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2022/gpcc_FDD_v2022.1DD.1985.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2022/gpcc_FDD_v2022.1DD.1986.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2022/gpcc_FDD_v2022.1DD.1987.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2022/gpcc_FDD_v2022.1DD.1988.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2022/gpcc_FDD_v2022.1DD.1989.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2022/gpcc_FDD_v2022.1DD.1990.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2022/gpcc_FDD_v2022.1DD.1991.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2022/gpcc_FDD_v2022.1DD.1992.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2022/gpcc_FDD_v2022.1DD.1993.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2022/gpcc_FDD_v2022.1DD.1994.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2022/gpcc_FDD_v2022.1DD.1995.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2022/gpcc_FDD_v2022.1DD.1996.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2022/gpcc_FDD_v2022.1DD.1997.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2022/gpcc_FDD_v2022.1DD.1998.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2022/gpcc_FDD_v2022.1DD.1999.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2022/gpcc_FDD_v2022.1DD.2000.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2022/gpcc_FDD_v2022.1DD.2001.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2022/gpcc_FDD_v2022.1DD.2002.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2022/gpcc_FDD_v2022.1DD.2003.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2022/gpcc_FDD_v2022.1DD.2004.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2022/gpcc_FDD_v2022.1DD.2005.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2022/gpcc_FDD_v2022.1DD.2006.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2022/gpcc_FDD_v2022.1DD.2007.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2022/gpcc_FDD_v2022.1DD.2008.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2022/gpcc_FDD_v2022.1DD.2009.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2022/gpcc_FDD_v2022.1DD.2010.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2022/gpcc_FDD_v2022.1DD.2011.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2022/gpcc_FDD_v2022.1DD.2012.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2022/gpcc_FDD_v2022.1DD.2013.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2022/gpcc_FDD_v2022.1DD.2014.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2022/gpcc_FDD_v2022.1DD.2015.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2022/gpcc_FDD_v2022.1DD.2016.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2022/gpcc_FDD_v2022.1DD.2017.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2022/gpcc_FDD_v2022.1DD.2018.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2022/gpcc_FDD_v2022.1DD.2019.nc’ already there; not retrieving.
+File ‘GPCC_FDD_v2022/gpcc_FDD_v2022.1DD.2020.nc’ already there; not retrieving.
+--2026-05-01 14:42:51--  ftp://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V2/GPCC_FG_v1.0/
+           => ‘GPCC_FG_v1.0/.listing’
+==> CWD (1) /FROGs/1DD_V2/GPCC_FG_v1.0 ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                     22.1K=0.07s
+
+2026-05-01 14:42:53 (22.1 KB/s) - ‘GPCC_FG_v1.0/.listing’ saved [1477]
+
+Removed ‘GPCC_FG_v1.0/.listing’.
+File ‘GPCC_FG_v1.0/gpcc_fg_v1.1DD.2009.nc’ already there; not retrieving.
+File ‘GPCC_FG_v1.0/gpcc_fg_v1.1DD.2010.nc’ already there; not retrieving.
+File ‘GPCC_FG_v1.0/gpcc_fg_v1.1DD.2011.nc’ already there; not retrieving.
+File ‘GPCC_FG_v1.0/gpcc_fg_v1.1DD.2012.nc’ already there; not retrieving.
+File ‘GPCC_FG_v1.0/gpcc_fg_v1.1DD.2013.nc’ already there; not retrieving.
+File ‘GPCC_FG_v1.0/gpcc_fg_v1.1DD.2014.nc’ already there; not retrieving.
+File ‘GPCC_FG_v1.0/gpcc_fg_v1.1DD.2015.nc’ already there; not retrieving.
+File ‘GPCC_FG_v1.0/gpcc_fg_v1.1DD.2016.nc’ already there; not retrieving.
+File ‘GPCC_FG_v1.0/gpcc_fg_v1.1DD.2017.nc’ already there; not retrieving.
+File ‘GPCC_FG_v1.0/gpcc_fg_v1.1DD.2018.nc’ already there; not retrieving.
+File ‘GPCC_FG_v1.0/gpcc_fg_v1.1DD.2019.nc’ already there; not retrieving.
+File ‘GPCC_FG_v1.0/gpcc_fg_v1.1DD.2020.nc’ already there; not retrieving.
+File ‘GPCC_FG_v1.0/gpcc_fg_v1.1DD.2021.nc’ already there; not retrieving.
+File ‘GPCC_FG_v1.0/gpcc_fg_v1.1DD.2022.nc’ already there; not retrieving.
+File ‘GPCC_FG_v1.0/gpcc_fg_v1.1DD.2023.nc’ already there; not retrieving.
+File ‘GPCC_FG_v1.0/gpcc_fg_v1.1DD.2024.nc’ already there; not retrieving.
+File ‘GPCC_FG_v1.0/gpcc_fg_v1.1DD.2025.nc’ already there; not retrieving.
+--2026-05-01 14:42:53--  ftp://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V2/GPCP_CDR_v1.3_not_enforced/
+           => ‘GPCP_CDR_v1.3_not_enforced/.listing’
+==> CWD (1) /FROGs/1DD_V2/GPCP_CDR_v1.3_not_enforced ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                     31.5K=0.08s
+
+2026-05-01 14:42:55 (31.5 KB/s) - ‘GPCP_CDR_v1.3_not_enforced/.listing’ saved [2437]
+
+Removed ‘GPCP_CDR_v1.3_not_enforced/.listing’.
+File ‘GPCP_CDR_v1.3_not_enforced/GPCP_CDR_un.1DD.1997.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_not_enforced/GPCP_CDR_un.1DD.1998.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_not_enforced/GPCP_CDR_un.1DD.1999.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_not_enforced/GPCP_CDR_un.1DD.2000.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_not_enforced/GPCP_CDR_un.1DD.2001.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_not_enforced/GPCP_CDR_un.1DD.2002.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_not_enforced/GPCP_CDR_un.1DD.2003.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_not_enforced/GPCP_CDR_un.1DD.2004.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_not_enforced/GPCP_CDR_un.1DD.2005.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_not_enforced/GPCP_CDR_un.1DD.2006.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_not_enforced/GPCP_CDR_un.1DD.2007.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_not_enforced/GPCP_CDR_un.1DD.2008.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_not_enforced/GPCP_CDR_un.1DD.2009.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_not_enforced/GPCP_CDR_un.1DD.2010.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_not_enforced/GPCP_CDR_un.1DD.2011.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_not_enforced/GPCP_CDR_un.1DD.2012.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_not_enforced/GPCP_CDR_un.1DD.2013.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_not_enforced/GPCP_CDR_un.1DD.2014.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_not_enforced/GPCP_CDR_un.1DD.2015.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_not_enforced/GPCP_CDR_un.1DD.2016.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_not_enforced/GPCP_CDR_un.1DD.2017.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_not_enforced/GPCP_CDR_un.1DD.2018.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_not_enforced/GPCP_CDR_un.1DD.2019.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_not_enforced/GPCP_CDR_un.1DD.2020.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_not_enforced/GPCP_CDR_un.1DD.2021.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_not_enforced/GPCP_CDR_un.1DD.2022.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_not_enforced/GPCP_CDR_un.1DD.2023.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_not_enforced/GPCP_CDR_un.1DD.2024.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_not_enforced/GPCP_CDR_un.1DD.2025.nc’ already there; not retrieving.
+--2026-05-01 14:42:55--  ftp://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V2/GPCP_CDR_v1.3_yes_enforced/
+           => ‘GPCP_CDR_v1.3_yes_enforced/.listing’
+==> CWD (1) /FROGs/1DD_V2/GPCP_CDR_v1.3_yes_enforced ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                     32.3K=0.07s
+
+2026-05-01 14:42:56 (32.3 KB/s) - ‘GPCP_CDR_v1.3_yes_enforced/.listing’ saved [2350]
+
+Removed ‘GPCP_CDR_v1.3_yes_enforced/.listing’.
+File ‘GPCP_CDR_v1.3_yes_enforced/GPCP_CDR.1DD.1997.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_yes_enforced/GPCP_CDR.1DD.1998.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_yes_enforced/GPCP_CDR.1DD.1999.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_yes_enforced/GPCP_CDR.1DD.2000.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_yes_enforced/GPCP_CDR.1DD.2001.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_yes_enforced/GPCP_CDR.1DD.2002.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_yes_enforced/GPCP_CDR.1DD.2003.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_yes_enforced/GPCP_CDR.1DD.2004.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_yes_enforced/GPCP_CDR.1DD.2005.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_yes_enforced/GPCP_CDR.1DD.2006.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_yes_enforced/GPCP_CDR.1DD.2007.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_yes_enforced/GPCP_CDR.1DD.2008.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_yes_enforced/GPCP_CDR.1DD.2009.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_yes_enforced/GPCP_CDR.1DD.2010.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_yes_enforced/GPCP_CDR.1DD.2011.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_yes_enforced/GPCP_CDR.1DD.2012.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_yes_enforced/GPCP_CDR.1DD.2013.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_yes_enforced/GPCP_CDR.1DD.2014.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_yes_enforced/GPCP_CDR.1DD.2015.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_yes_enforced/GPCP_CDR.1DD.2016.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_yes_enforced/GPCP_CDR.1DD.2017.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_yes_enforced/GPCP_CDR.1DD.2018.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_yes_enforced/GPCP_CDR.1DD.2019.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_yes_enforced/GPCP_CDR.1DD.2020.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_yes_enforced/GPCP_CDR.1DD.2021.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_yes_enforced/GPCP_CDR.1DD.2022.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_yes_enforced/GPCP_CDR.1DD.2023.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_yes_enforced/GPCP_CDR.1DD.2024.nc’ already there; not retrieving.
+File ‘GPCP_CDR_v1.3_yes_enforced/GPCP_CDR.1DD.2025.nc’ already there; not retrieving.
+--2026-05-01 14:42:57--  ftp://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V2/GPCP_V3.2/
+           => ‘GPCP_V3.2/.listing’
+==> CWD (1) /FROGs/1DD_V2/GPCP_V3.2 ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                     22.1K=0.08s
+
+2026-05-01 14:42:58 (22.1 KB/s) - ‘GPCP_V3.2/.listing’ saved [1833]
+
+Removed ‘GPCP_V3.2/.listing’.
+File ‘GPCP_V3.2/GPCP_V3.2.1DD.2000.nc’ already there; not retrieving.
+File ‘GPCP_V3.2/GPCP_V3.2.1DD.2001.nc’ already there; not retrieving.
+File ‘GPCP_V3.2/GPCP_V3.2.1DD.2002.nc’ already there; not retrieving.
+File ‘GPCP_V3.2/GPCP_V3.2.1DD.2003.nc’ already there; not retrieving.
+File ‘GPCP_V3.2/GPCP_V3.2.1DD.2004.nc’ already there; not retrieving.
+File ‘GPCP_V3.2/GPCP_V3.2.1DD.2005.nc’ already there; not retrieving.
+File ‘GPCP_V3.2/GPCP_V3.2.1DD.2006.nc’ already there; not retrieving.
+File ‘GPCP_V3.2/GPCP_V3.2.1DD.2007.nc’ already there; not retrieving.
+File ‘GPCP_V3.2/GPCP_V3.2.1DD.2008.nc’ already there; not retrieving.
+File ‘GPCP_V3.2/GPCP_V3.2.1DD.2009.nc’ already there; not retrieving.
+File ‘GPCP_V3.2/GPCP_V3.2.1DD.2010.nc’ already there; not retrieving.
+File ‘GPCP_V3.2/GPCP_V3.2.1DD.2011.nc’ already there; not retrieving.
+File ‘GPCP_V3.2/GPCP_V3.2.1DD.2012.nc’ already there; not retrieving.
+File ‘GPCP_V3.2/GPCP_V3.2.1DD.2013.nc’ already there; not retrieving.
+File ‘GPCP_V3.2/GPCP_V3.2.1DD.2014.nc’ already there; not retrieving.
+File ‘GPCP_V3.2/GPCP_V3.2.1DD.2015.nc’ already there; not retrieving.
+File ‘GPCP_V3.2/GPCP_V3.2.1DD.2016.nc’ already there; not retrieving.
+File ‘GPCP_V3.2/GPCP_V3.2.1DD.2017.nc’ already there; not retrieving.
+File ‘GPCP_V3.2/GPCP_V3.2.1DD.2018.nc’ already there; not retrieving.
+File ‘GPCP_V3.2/GPCP_V3.2.1DD.2019.nc’ already there; not retrieving.
+File ‘GPCP_V3.2/GPCP_V3.2.1DD.2020.nc’ already there; not retrieving.
+File ‘GPCP_V3.2/GPCP_V3.2.1DD.2021.nc’ already there; not retrieving.
+--2026-05-01 14:42:59--  ftp://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V2/GPCP_V3.3/
+           => ‘GPCP_V3.3/.listing’
+==> CWD (1) /FROGs/1DD_V2/GPCP_V3.3 ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                     22.3K=0.1s
+
+2026-05-01 14:43:00 (22.3 KB/s) - ‘GPCP_V3.3/.listing’ saved [2223]
+
+Removed ‘GPCP_V3.3/.listing’.
+File ‘GPCP_V3.3/GPCP_V3.3.1DD.1998.nc’ already there; not retrieving.
+File ‘GPCP_V3.3/GPCP_V3.3.1DD.1999.nc’ already there; not retrieving.
+File ‘GPCP_V3.3/GPCP_V3.3.1DD.2000.nc’ already there; not retrieving.
+File ‘GPCP_V3.3/GPCP_V3.3.1DD.2001.nc’ already there; not retrieving.
+File ‘GPCP_V3.3/GPCP_V3.3.1DD.2002.nc’ already there; not retrieving.
+File ‘GPCP_V3.3/GPCP_V3.3.1DD.2003.nc’ already there; not retrieving.
+File ‘GPCP_V3.3/GPCP_V3.3.1DD.2004.nc’ already there; not retrieving.
+File ‘GPCP_V3.3/GPCP_V3.3.1DD.2005.nc’ already there; not retrieving.
+File ‘GPCP_V3.3/GPCP_V3.3.1DD.2006.nc’ already there; not retrieving.
+File ‘GPCP_V3.3/GPCP_V3.3.1DD.2007.nc’ already there; not retrieving.
+File ‘GPCP_V3.3/GPCP_V3.3.1DD.2008.nc’ already there; not retrieving.
+File ‘GPCP_V3.3/GPCP_V3.3.1DD.2009.nc’ already there; not retrieving.
+File ‘GPCP_V3.3/GPCP_V3.3.1DD.2010.nc’ already there; not retrieving.
+File ‘GPCP_V3.3/GPCP_V3.3.1DD.2011.nc’ already there; not retrieving.
+File ‘GPCP_V3.3/GPCP_V3.3.1DD.2012.nc’ already there; not retrieving.
+File ‘GPCP_V3.3/GPCP_V3.3.1DD.2013.nc’ already there; not retrieving.
+File ‘GPCP_V3.3/GPCP_V3.3.1DD.2014.nc’ already there; not retrieving.
+File ‘GPCP_V3.3/GPCP_V3.3.1DD.2015.nc’ already there; not retrieving.
+File ‘GPCP_V3.3/GPCP_V3.3.1DD.2016.nc’ already there; not retrieving.
+File ‘GPCP_V3.3/GPCP_V3.3.1DD.2017.nc’ already there; not retrieving.
+File ‘GPCP_V3.3/GPCP_V3.3.1DD.2018.nc’ already there; not retrieving.
+File ‘GPCP_V3.3/GPCP_V3.3.1DD.2019.nc’ already there; not retrieving.
+File ‘GPCP_V3.3/GPCP_V3.3.1DD.2020.nc’ already there; not retrieving.
+File ‘GPCP_V3.3/GPCP_V3.3.1DD.2021.nc’ already there; not retrieving.
+File ‘GPCP_V3.3/GPCP_V3.3.1DD.2022.nc’ already there; not retrieving.
+File ‘GPCP_V3.3/GPCP_V3.3.1DD.2023.nc’ already there; not retrieving.
+File ‘GPCP_V3.3/GPCP_V3.3.1DD.2024.nc’ already there; not retrieving.
+--2026-05-01 14:43:01--  ftp://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V2/GSMAP-gauges-NRT-v6.0/
+           => ‘GSMAP-gauges-NRT-v6.0/.listing’
+==> CWD (1) /FROGs/1DD_V2/GSMAP-gauges-NRT-v6.0 ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                     24.9K=0.1s
+
+2026-05-01 14:43:02 (24.9 KB/s) - ‘GSMAP-gauges-NRT-v6.0/.listing’ saved [2457]
+
+Removed ‘GSMAP-gauges-NRT-v6.0/.listing’.
+File ‘GSMAP-gauges-NRT-v6.0/GSMAP-NRT-gauges-v6.0.1DD.2000.nc’ already there; not retrieving.
+File ‘GSMAP-gauges-NRT-v6.0/GSMAP-NRT-gauges-v6.0.1DD.2001.nc’ already there; not retrieving.
+File ‘GSMAP-gauges-NRT-v6.0/GSMAP-NRT-gauges-v6.0.1DD.2002.nc’ already there; not retrieving.
+File ‘GSMAP-gauges-NRT-v6.0/GSMAP-NRT-gauges-v6.0.1DD.2003.nc’ already there; not retrieving.
+File ‘GSMAP-gauges-NRT-v6.0/GSMAP-NRT-gauges-v6.0.1DD.2004.nc’ already there; not retrieving.
+File ‘GSMAP-gauges-NRT-v6.0/GSMAP-NRT-gauges-v6.0.1DD.2005.nc’ already there; not retrieving.
+File ‘GSMAP-gauges-NRT-v6.0/GSMAP-NRT-gauges-v6.0.1DD.2006.nc’ already there; not retrieving.
+File ‘GSMAP-gauges-NRT-v6.0/GSMAP-NRT-gauges-v6.0.1DD.2007.nc’ already there; not retrieving.
+File ‘GSMAP-gauges-NRT-v6.0/GSMAP-NRT-gauges-v6.0.1DD.2008.nc’ already there; not retrieving.
+File ‘GSMAP-gauges-NRT-v6.0/GSMAP-NRT-gauges-v6.0.1DD.2009.nc’ already there; not retrieving.
+File ‘GSMAP-gauges-NRT-v6.0/GSMAP-NRT-gauges-v6.0.1DD.2010.nc’ already there; not retrieving.
+File ‘GSMAP-gauges-NRT-v6.0/GSMAP-NRT-gauges-v6.0.1DD.2011.nc’ already there; not retrieving.
+File ‘GSMAP-gauges-NRT-v6.0/GSMAP-NRT-gauges-v6.0.1DD.2012.nc’ already there; not retrieving.
+File ‘GSMAP-gauges-NRT-v6.0/GSMAP-NRT-gauges-v6.0.1DD.2013.nc’ already there; not retrieving.
+File ‘GSMAP-gauges-NRT-v6.0/GSMAP-NRT-gauges-v6.0.1DD.2014.nc’ already there; not retrieving.
+File ‘GSMAP-gauges-NRT-v6.0/GSMAP-NRT-gauges-v6.0.1DD.2015.nc’ already there; not retrieving.
+File ‘GSMAP-gauges-NRT-v6.0/GSMAP-NRT-gauges-v6.0.1DD.2016.nc’ already there; not retrieving.
+File ‘GSMAP-gauges-NRT-v6.0/GSMAP-NRT-gauges-v6.0.1DD.2017.nc’ already there; not retrieving.
+File ‘GSMAP-gauges-NRT-v6.0/GSMAP-NRT-gauges-v6.0.1DD.2018.nc’ already there; not retrieving.
+File ‘GSMAP-gauges-NRT-v6.0/GSMAP-NRT-gauges-v6.0.1DD.2019.nc’ already there; not retrieving.
+File ‘GSMAP-gauges-NRT-v6.0/GSMAP-NRT-gauges-v6.0.1DD.2020.nc’ already there; not retrieving.
+File ‘GSMAP-gauges-NRT-v6.0/GSMAP-NRT-gauges-v6.0.1DD.2021.nc’ already there; not retrieving.
+File ‘GSMAP-gauges-NRT-v6.0/GSMAP-NRT-gauges-v6.0.1DD.2022.nc’ already there; not retrieving.
+File ‘GSMAP-gauges-NRT-v6.0/GSMAP-NRT-gauges-v6.0.1DD.2023.nc’ already there; not retrieving.
+File ‘GSMAP-gauges-NRT-v6.0/GSMAP-NRT-gauges-v6.0.1DD.2024.nc’ already there; not retrieving.
+File ‘GSMAP-gauges-NRT-v6.0/GSMAP-NRT-gauges-v6.0.1DD.2025.nc’ already there; not retrieving.
+--2026-05-01 14:43:02--  ftp://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V2/GSMAP-nogauges-NRT-v6.0/
+           => ‘GSMAP-nogauges-NRT-v6.0/.listing’
+==> CWD (1) /FROGs/1DD_V2/GSMAP-nogauges-NRT-v6.0 ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                     23.2K=0.1s
+
+2026-05-01 14:43:04 (23.2 KB/s) - ‘GSMAP-nogauges-NRT-v6.0/.listing’ saved [2275]
+
+Removed ‘GSMAP-nogauges-NRT-v6.0/.listing’.
+File ‘GSMAP-nogauges-NRT-v6.0/GSMAP-NRT-v6.0.1DD.2000.nc’ already there; not retrieving.
+File ‘GSMAP-nogauges-NRT-v6.0/GSMAP-NRT-v6.0.1DD.2001.nc’ already there; not retrieving.
+File ‘GSMAP-nogauges-NRT-v6.0/GSMAP-NRT-v6.0.1DD.2002.nc’ already there; not retrieving.
+File ‘GSMAP-nogauges-NRT-v6.0/GSMAP-NRT-v6.0.1DD.2003.nc’ already there; not retrieving.
+File ‘GSMAP-nogauges-NRT-v6.0/GSMAP-NRT-v6.0.1DD.2004.nc’ already there; not retrieving.
+File ‘GSMAP-nogauges-NRT-v6.0/GSMAP-NRT-v6.0.1DD.2005.nc’ already there; not retrieving.
+File ‘GSMAP-nogauges-NRT-v6.0/GSMAP-NRT-v6.0.1DD.2006.nc’ already there; not retrieving.
+File ‘GSMAP-nogauges-NRT-v6.0/GSMAP-NRT-v6.0.1DD.2007.nc’ already there; not retrieving.
+File ‘GSMAP-nogauges-NRT-v6.0/GSMAP-NRT-v6.0.1DD.2008.nc’ already there; not retrieving.
+File ‘GSMAP-nogauges-NRT-v6.0/GSMAP-NRT-v6.0.1DD.2009.nc’ already there; not retrieving.
+File ‘GSMAP-nogauges-NRT-v6.0/GSMAP-NRT-v6.0.1DD.2010.nc’ already there; not retrieving.
+File ‘GSMAP-nogauges-NRT-v6.0/GSMAP-NRT-v6.0.1DD.2011.nc’ already there; not retrieving.
+File ‘GSMAP-nogauges-NRT-v6.0/GSMAP-NRT-v6.0.1DD.2012.nc’ already there; not retrieving.
+File ‘GSMAP-nogauges-NRT-v6.0/GSMAP-NRT-v6.0.1DD.2013.nc’ already there; not retrieving.
+File ‘GSMAP-nogauges-NRT-v6.0/GSMAP-NRT-v6.0.1DD.2014.nc’ already there; not retrieving.
+File ‘GSMAP-nogauges-NRT-v6.0/GSMAP-NRT-v6.0.1DD.2015.nc’ already there; not retrieving.
+File ‘GSMAP-nogauges-NRT-v6.0/GSMAP-NRT-v6.0.1DD.2016.nc’ already there; not retrieving.
+File ‘GSMAP-nogauges-NRT-v6.0/GSMAP-NRT-v6.0.1DD.2017.nc’ already there; not retrieving.
+File ‘GSMAP-nogauges-NRT-v6.0/GSMAP-NRT-v6.0.1DD.2018.nc’ already there; not retrieving.
+File ‘GSMAP-nogauges-NRT-v6.0/GSMAP-NRT-v6.0.1DD.2019.nc’ already there; not retrieving.
+File ‘GSMAP-nogauges-NRT-v6.0/GSMAP-NRT-v6.0.1DD.2020.nc’ already there; not retrieving.
+File ‘GSMAP-nogauges-NRT-v6.0/GSMAP-NRT-v6.0.1DD.2021.nc’ already there; not retrieving.
+File ‘GSMAP-nogauges-NRT-v6.0/GSMAP-NRT-v6.0.1DD.2022.nc’ already there; not retrieving.
+File ‘GSMAP-nogauges-NRT-v6.0/GSMAP-NRT-v6.0.1DD.2023.nc’ already there; not retrieving.
+File ‘GSMAP-nogauges-NRT-v6.0/GSMAP-NRT-v6.0.1DD.2024.nc’ already there; not retrieving.
+File ‘GSMAP-nogauges-NRT-v6.0/GSMAP-NRT-v6.0.1DD.2025.nc’ already there; not retrieving.
+--2026-05-01 14:43:04--  ftp://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V2/GsMAP-NRT-gauges_V8/
+           => ‘GsMAP-NRT-gauges_V8/.listing’
+==> CWD (1) /FROGs/1DD_V2/GsMAP-NRT-gauges_V8 ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                     31.2K=0.08s
+
+2026-05-01 14:43:06 (31.2 KB/s) - ‘GsMAP-NRT-gauges_V8/.listing’ saved [2637]
+
+Removed ‘GsMAP-NRT-gauges_V8/.listing’.
+File ‘GsMAP-NRT-gauges_V8/GSMAP-NRT-gauges-v8.0.1DD.1998.nc’ already there; not retrieving.
+File ‘GsMAP-NRT-gauges_V8/GSMAP-NRT-gauges-v8.0.1DD.1999.nc’ already there; not retrieving.
+File ‘GsMAP-NRT-gauges_V8/GSMAP-NRT-gauges-v8.0.1DD.2000.nc’ already there; not retrieving.
+File ‘GsMAP-NRT-gauges_V8/GSMAP-NRT-gauges-v8.0.1DD.2001.nc’ already there; not retrieving.
+File ‘GsMAP-NRT-gauges_V8/GSMAP-NRT-gauges-v8.0.1DD.2002.nc’ already there; not retrieving.
+File ‘GsMAP-NRT-gauges_V8/GSMAP-NRT-gauges-v8.0.1DD.2003.nc’ already there; not retrieving.
+File ‘GsMAP-NRT-gauges_V8/GSMAP-NRT-gauges-v8.0.1DD.2004.nc’ already there; not retrieving.
+File ‘GsMAP-NRT-gauges_V8/GSMAP-NRT-gauges-v8.0.1DD.2005.nc’ already there; not retrieving.
+File ‘GsMAP-NRT-gauges_V8/GSMAP-NRT-gauges-v8.0.1DD.2006.nc’ already there; not retrieving.
+File ‘GsMAP-NRT-gauges_V8/GSMAP-NRT-gauges-v8.0.1DD.2007.nc’ already there; not retrieving.
+File ‘GsMAP-NRT-gauges_V8/GSMAP-NRT-gauges-v8.0.1DD.2008.nc’ already there; not retrieving.
+File ‘GsMAP-NRT-gauges_V8/GSMAP-NRT-gauges-v8.0.1DD.2009.nc’ already there; not retrieving.
+File ‘GsMAP-NRT-gauges_V8/GSMAP-NRT-gauges-v8.0.1DD.2010.nc’ already there; not retrieving.
+File ‘GsMAP-NRT-gauges_V8/GSMAP-NRT-gauges-v8.0.1DD.2011.nc’ already there; not retrieving.
+File ‘GsMAP-NRT-gauges_V8/GSMAP-NRT-gauges-v8.0.1DD.2012.nc’ already there; not retrieving.
+File ‘GsMAP-NRT-gauges_V8/GSMAP-NRT-gauges-v8.0.1DD.2013.nc’ already there; not retrieving.
+File ‘GsMAP-NRT-gauges_V8/GSMAP-NRT-gauges-v8.0.1DD.2014.nc’ already there; not retrieving.
+File ‘GsMAP-NRT-gauges_V8/GSMAP-NRT-gauges-v8.0.1DD.2015.nc’ already there; not retrieving.
+File ‘GsMAP-NRT-gauges_V8/GSMAP-NRT-gauges-v8.0.1DD.2016.nc’ already there; not retrieving.
+File ‘GsMAP-NRT-gauges_V8/GSMAP-NRT-gauges-v8.0.1DD.2017.nc’ already there; not retrieving.
+File ‘GsMAP-NRT-gauges_V8/GSMAP-NRT-gauges-v8.0.1DD.2018.nc’ already there; not retrieving.
+File ‘GsMAP-NRT-gauges_V8/GSMAP-NRT-gauges-v8.0.1DD.2019.nc’ already there; not retrieving.
+File ‘GsMAP-NRT-gauges_V8/GSMAP-NRT-gauges-v8.0.1DD.2020.nc’ already there; not retrieving.
+File ‘GsMAP-NRT-gauges_V8/GSMAP-NRT-gauges-v8.0.1DD.2021.nc’ already there; not retrieving.
+File ‘GsMAP-NRT-gauges_V8/GSMAP-NRT-gauges-v8.0.1DD.2022.nc’ already there; not retrieving.
+File ‘GsMAP-NRT-gauges_V8/GSMAP-NRT-gauges-v8.0.1DD.2023.nc’ already there; not retrieving.
+File ‘GsMAP-NRT-gauges_V8/GSMAP-NRT-gauges-v8.0.1DD.2024.nc’ already there; not retrieving.
+File ‘GsMAP-NRT-gauges_V8/GSMAP-NRT-gauges-v8.0.1DD.2025.nc’ already there; not retrieving.
+--2026-05-01 14:43:06--  ftp://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V2/GsMAP-NRT_V8/
+           => ‘GsMAP-NRT_V8/.listing’
+==> CWD (1) /FROGs/1DD_V2/GsMAP-NRT_V8 ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                     21.6K=0.07s
+
+2026-05-01 14:43:08 (21.6 KB/s) - ‘GsMAP-NRT_V8/.listing’ saved [1528]
+
+Removed ‘GsMAP-NRT_V8/.listing’.
+File ‘GsMAP-NRT_V8/GSMAP-NRT-v8.0.1DD.1998.nc’ already there; not retrieving.
+File ‘GsMAP-NRT_V8/GSMAP-NRT-v8.0.1DD.1999.nc’ already there; not retrieving.
+File ‘GsMAP-NRT_V8/GSMAP-NRT-v8.0.1DD.2000.nc’ already there; not retrieving.
+File ‘GsMAP-NRT_V8/GSMAP-NRT-v8.0.1DD.2001.nc’ already there; not retrieving.
+File ‘GsMAP-NRT_V8/GSMAP-NRT-v8.0.1DD.2002.nc’ already there; not retrieving.
+File ‘GsMAP-NRT_V8/GSMAP-NRT-v8.0.1DD.2003.nc’ already there; not retrieving.
+File ‘GsMAP-NRT_V8/GSMAP-NRT-v8.0.1DD.2004.nc’ already there; not retrieving.
+File ‘GsMAP-NRT_V8/GSMAP-NRT-v8.0.1DD.2005.nc’ already there; not retrieving.
+File ‘GsMAP-NRT_V8/GSMAP-NRT-v8.0.1DD.2006.nc’ already there; not retrieving.
+File ‘GsMAP-NRT_V8/GSMAP-NRT-v8.0.1DD.2007.nc’ already there; not retrieving.
+File ‘GsMAP-NRT_V8/GSMAP-NRT-v8.0.1DD.2008.nc’ already there; not retrieving.
+File ‘GsMAP-NRT_V8/GSMAP-NRT-v8.0.1DD.2009.nc’ already there; not retrieving.
+File ‘GsMAP-NRT_V8/GSMAP-NRT-v8.0.1DD.2021.nc’ already there; not retrieving.
+File ‘GsMAP-NRT_V8/GSMAP-NRT-v8.0.1DD.2022.nc’ already there; not retrieving.
+File ‘GsMAP-NRT_V8/GSMAP-NRT-v8.0.1DD.2023.nc’ already there; not retrieving.
+File ‘GsMAP-NRT_V8/GSMAP-NRT-v8.0.1DD.2024.nc’ already there; not retrieving.
+File ‘GsMAP-NRT_V8/GSMAP-NRT-v8.0.1DD.2025.nc’ already there; not retrieving.
+--2026-05-01 14:43:08--  ftp://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V2/HOAPSv4.0/
+           => ‘HOAPSv4.0/.listing’
+==> CWD (1) /FROGs/1DD_V2/HOAPSv4.0 ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                     25.2K=0.08s
+
+2026-05-01 14:43:09 (25.2 KB/s) - ‘HOAPSv4.0/.listing’ saved [2042]
+
+Removed ‘HOAPSv4.0/.listing’.
+File ‘HOAPSv4.0/HOAPS-v4.1DD.1996.nc’ already there; not retrieving.
+File ‘HOAPSv4.0/HOAPS-v4.1DD.1997.nc’ already there; not retrieving.
+File ‘HOAPSv4.0/HOAPS-v4.1DD.1998.nc’ already there; not retrieving.
+File ‘HOAPSv4.0/HOAPS-v4.1DD.1999.nc’ already there; not retrieving.
+File ‘HOAPSv4.0/HOAPS-v4.1DD.2000.nc’ already there; not retrieving.
+File ‘HOAPSv4.0/HOAPS-v4.1DD.2001.nc’ already there; not retrieving.
+File ‘HOAPSv4.0/HOAPS-v4.1DD.2002.nc’ already there; not retrieving.
+File ‘HOAPSv4.0/HOAPS-v4.1DD.2003.nc’ already there; not retrieving.
+File ‘HOAPSv4.0/HOAPS-v4.1DD.2004.nc’ already there; not retrieving.
+File ‘HOAPSv4.0/HOAPS-v4.1DD.2005.nc’ already there; not retrieving.
+File ‘HOAPSv4.0/HOAPS-v4.1DD.2006.nc’ already there; not retrieving.
+File ‘HOAPSv4.0/HOAPS-v4.1DD.2007.nc’ already there; not retrieving.
+File ‘HOAPSv4.0/HOAPS-v4.1DD.2008.nc’ already there; not retrieving.
+File ‘HOAPSv4.0/HOAPS-v4.1DD.2009.nc’ already there; not retrieving.
+File ‘HOAPSv4.0/HOAPS-v4.1DD.2010.nc’ already there; not retrieving.
+File ‘HOAPSv4.0/HOAPS-v4.1DD.2011.nc’ already there; not retrieving.
+File ‘HOAPSv4.0/HOAPS-v4.1DD.2012.nc’ already there; not retrieving.
+File ‘HOAPSv4.0/HOAPS-v4.1DD.2013.nc’ already there; not retrieving.
+File ‘HOAPSv4.0/HOAPS-v4.1DD.2014.nc’ already there; not retrieving.
+File ‘HOAPSv4.0/HOAPS-v4.1DD.2015.nc’ already there; not retrieving.
+File ‘HOAPSv4.0/HOAPS-v4.1DD.2016.nc’ already there; not retrieving.
+File ‘HOAPSv4.0/HOAPS-v4.1DD.2017.nc’ already there; not retrieving.
+File ‘HOAPSv4.0/HOAPS-v4.1DD.2018.nc’ already there; not retrieving.
+File ‘HOAPSv4.0/HOAPS-v4.1DD.2019.nc’ already there; not retrieving.
+File ‘HOAPSv4.0/HOAPS-v4.1DD.2020.nc’ already there; not retrieving.
+--2026-05-01 14:43:10--  ftp://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V2/IMERG_V06_EU/
+           => ‘IMERG_V06_EU/.listing’
+==> CWD (1) /FROGs/1DD_V2/IMERG_V06_EU ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                     21.5K=0.09s
+
+2026-05-01 14:43:11 (21.5 KB/s) - ‘IMERG_V06_EU/.listing’ saved [1899]
+
+Removed ‘IMERG_V06_EU/.listing’.
+File ‘IMERG_V06_EU/IMERG_V06_EU.1DD.2000.nc’ already there; not retrieving.
+File ‘IMERG_V06_EU/IMERG_V06_EU.1DD.2001.nc’ already there; not retrieving.
+File ‘IMERG_V06_EU/IMERG_V06_EU.1DD.2002.nc’ already there; not retrieving.
+File ‘IMERG_V06_EU/IMERG_V06_EU.1DD.2003.nc’ already there; not retrieving.
+File ‘IMERG_V06_EU/IMERG_V06_EU.1DD.2004.nc’ already there; not retrieving.
+File ‘IMERG_V06_EU/IMERG_V06_EU.1DD.2005.nc’ already there; not retrieving.
+File ‘IMERG_V06_EU/IMERG_V06_EU.1DD.2006.nc’ already there; not retrieving.
+File ‘IMERG_V06_EU/IMERG_V06_EU.1DD.2007.nc’ already there; not retrieving.
+File ‘IMERG_V06_EU/IMERG_V06_EU.1DD.2008.nc’ already there; not retrieving.
+File ‘IMERG_V06_EU/IMERG_V06_EU.1DD.2010.nc’ already there; not retrieving.
+File ‘IMERG_V06_EU/IMERG_V06_EU.1DD.2011.nc’ already there; not retrieving.
+File ‘IMERG_V06_EU/IMERG_V06_EU.1DD.2012.nc’ already there; not retrieving.
+File ‘IMERG_V06_EU/IMERG_V06_EU.1DD.2013.nc’ already there; not retrieving.
+File ‘IMERG_V06_EU/IMERG_V06_EU.1DD.2014.nc’ already there; not retrieving.
+File ‘IMERG_V06_EU/IMERG_V06_EU.1DD.2015.nc’ already there; not retrieving.
+File ‘IMERG_V06_EU/IMERG_V06_EU.1DD.2016.nc’ already there; not retrieving.
+File ‘IMERG_V06_EU/IMERG_V06_EU.1DD.2017.nc’ already there; not retrieving.
+File ‘IMERG_V06_EU/IMERG_V06_EU.1DD.2018.nc’ already there; not retrieving.
+File ‘IMERG_V06_EU/IMERG_V06_EU.1DD.2019.nc’ already there; not retrieving.
+File ‘IMERG_V06_EU/IMERG_V06_EU.1DD.2020.nc’ already there; not retrieving.
+File ‘IMERG_V06_EU/IMERG_V06_EU.1DD.2021.nc’ already there; not retrieving.
+File ‘IMERG_V06_EU/IMERG_V06_EU.1DD.2022.nc’ already there; not retrieving.
+--2026-05-01 14:43:12--  ftp://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V2/IMERG_V06_LU/
+           => ‘IMERG_V06_LU/.listing’
+==> CWD (1) /FROGs/1DD_V2/IMERG_V06_LU ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                     44.5K=0.04s
+
+2026-05-01 14:43:13 (44.5 KB/s) - ‘IMERG_V06_LU/.listing’ saved [1980]
+
+Removed ‘IMERG_V06_LU/.listing’.
+File ‘IMERG_V06_LU/IMERG_V06_LU.1DD.2000.nc’ already there; not retrieving.
+File ‘IMERG_V06_LU/IMERG_V06_LU.1DD.2001.nc’ already there; not retrieving.
+File ‘IMERG_V06_LU/IMERG_V06_LU.1DD.2002.nc’ already there; not retrieving.
+File ‘IMERG_V06_LU/IMERG_V06_LU.1DD.2003.nc’ already there; not retrieving.
+File ‘IMERG_V06_LU/IMERG_V06_LU.1DD.2004.nc’ already there; not retrieving.
+File ‘IMERG_V06_LU/IMERG_V06_LU.1DD.2005.nc’ already there; not retrieving.
+File ‘IMERG_V06_LU/IMERG_V06_LU.1DD.2006.nc’ already there; not retrieving.
+File ‘IMERG_V06_LU/IMERG_V06_LU.1DD.2007.nc’ already there; not retrieving.
+File ‘IMERG_V06_LU/IMERG_V06_LU.1DD.2008.nc’ already there; not retrieving.
+File ‘IMERG_V06_LU/IMERG_V06_LU.1DD.2009.nc’ already there; not retrieving.
+File ‘IMERG_V06_LU/IMERG_V06_LU.1DD.2010.nc’ already there; not retrieving.
+File ‘IMERG_V06_LU/IMERG_V06_LU.1DD.2011.nc’ already there; not retrieving.
+File ‘IMERG_V06_LU/IMERG_V06_LU.1DD.2012.nc’ already there; not retrieving.
+File ‘IMERG_V06_LU/IMERG_V06_LU.1DD.2013.nc’ already there; not retrieving.
+File ‘IMERG_V06_LU/IMERG_V06_LU.1DD.2014.nc’ already there; not retrieving.
+File ‘IMERG_V06_LU/IMERG_V06_LU.1DD.2015.nc’ already there; not retrieving.
+File ‘IMERG_V06_LU/IMERG_V06_LU.1DD.2016.nc’ already there; not retrieving.
+File ‘IMERG_V06_LU/IMERG_V06_LU.1DD.2017.nc’ already there; not retrieving.
+File ‘IMERG_V06_LU/IMERG_V06_LU.1DD.2018.nc’ already there; not retrieving.
+File ‘IMERG_V06_LU/IMERG_V06_LU.1DD.2019.nc’ already there; not retrieving.
+File ‘IMERG_V06_LU/IMERG_V06_LU.1DD.2020.nc’ already there; not retrieving.
+File ‘IMERG_V06_LU/IMERG_V06_LU.1DD.2021.nc’ already there; not retrieving.
+File ‘IMERG_V06_LU/IMERG_V06_LU.1DD.2022.nc’ already there; not retrieving.
+--2026-05-01 14:43:14--  ftp://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V2/IMERG_V07B_FC/
+           => ‘IMERG_V07B_FC/.listing’
+==> CWD (1) /FROGs/1DD_V2/IMERG_V07B_FC ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                     36.8K=0.06s
+
+2026-05-01 14:43:15 (36.8 KB/s) - ‘IMERG_V07B_FC/.listing’ saved [2167]
+
+Removed ‘IMERG_V07B_FC/.listing’.
+File ‘IMERG_V07B_FC/IMERG_V07B_FC.1DD.2000.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FC/IMERG_V07B_FC.1DD.2001.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FC/IMERG_V07B_FC.1DD.2002.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FC/IMERG_V07B_FC.1DD.2003.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FC/IMERG_V07B_FC.1DD.2004.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FC/IMERG_V07B_FC.1DD.2005.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FC/IMERG_V07B_FC.1DD.2006.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FC/IMERG_V07B_FC.1DD.2007.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FC/IMERG_V07B_FC.1DD.2008.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FC/IMERG_V07B_FC.1DD.2009.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FC/IMERG_V07B_FC.1DD.2010.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FC/IMERG_V07B_FC.1DD.2011.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FC/IMERG_V07B_FC.1DD.2012.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FC/IMERG_V07B_FC.1DD.2013.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FC/IMERG_V07B_FC.1DD.2014.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FC/IMERG_V07B_FC.1DD.2015.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FC/IMERG_V07B_FC.1DD.2016.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FC/IMERG_V07B_FC.1DD.2017.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FC/IMERG_V07B_FC.1DD.2018.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FC/IMERG_V07B_FC.1DD.2019.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FC/IMERG_V07B_FC.1DD.2020.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FC/IMERG_V07B_FC.1DD.2021.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FC/IMERG_V07B_FC.1DD.2022.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FC/IMERG_V07B_FC.1DD.2023.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FC/IMERG_V07B_FC.1DD.2024.nc’ already there; not retrieving.
+--2026-05-01 14:43:15--  ftp://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V2/IMERG_V07B_FU/
+           => ‘IMERG_V07B_FU/.listing’
+==> CWD (1) /FROGs/1DD_V2/IMERG_V07B_FU ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                     34.0K=0.06s
+
+2026-05-01 14:43:17 (34.0 KB/s) - ‘IMERG_V07B_FU/.listing’ saved [2167]
+
+Removed ‘IMERG_V07B_FU/.listing’.
+File ‘IMERG_V07B_FU/IMERG_V07B_FU.1DD.2000.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FU/IMERG_V07B_FU.1DD.2001.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FU/IMERG_V07B_FU.1DD.2002.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FU/IMERG_V07B_FU.1DD.2003.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FU/IMERG_V07B_FU.1DD.2004.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FU/IMERG_V07B_FU.1DD.2005.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FU/IMERG_V07B_FU.1DD.2006.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FU/IMERG_V07B_FU.1DD.2007.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FU/IMERG_V07B_FU.1DD.2008.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FU/IMERG_V07B_FU.1DD.2009.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FU/IMERG_V07B_FU.1DD.2010.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FU/IMERG_V07B_FU.1DD.2011.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FU/IMERG_V07B_FU.1DD.2012.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FU/IMERG_V07B_FU.1DD.2013.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FU/IMERG_V07B_FU.1DD.2014.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FU/IMERG_V07B_FU.1DD.2015.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FU/IMERG_V07B_FU.1DD.2016.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FU/IMERG_V07B_FU.1DD.2017.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FU/IMERG_V07B_FU.1DD.2018.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FU/IMERG_V07B_FU.1DD.2019.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FU/IMERG_V07B_FU.1DD.2020.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FU/IMERG_V07B_FU.1DD.2021.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FU/IMERG_V07B_FU.1DD.2022.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FU/IMERG_V07B_FU.1DD.2023.nc’ already there; not retrieving.
+File ‘IMERG_V07B_FU/IMERG_V07B_FU.1DD.2024.nc’ already there; not retrieving.
+--2026-05-01 14:43:17--  ftp://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V2/JRA-3Q/
+           => ‘JRA-3Q/.listing’
+==> CWD (1) /FROGs/1DD_V2/JRA-3Q ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                     9.36K=0.6s
+
+2026-05-01 14:43:19 (9.36 KB/s) - ‘JRA-3Q/.listing’ saved [5964]
+
+Removed ‘JRA-3Q/.listing’.
+File ‘JRA-3Q/jra3q.1DD.1947.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1948.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1949.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1950.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1951.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1952.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1953.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1954.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1955.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1956.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1957.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1958.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1959.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1960.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1961.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1962.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1963.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1964.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1965.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1966.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1967.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1968.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1969.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1970.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1971.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1972.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1973.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1974.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1975.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1976.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1977.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1978.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1979.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1980.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1981.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1982.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1983.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1984.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1985.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1986.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1987.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1988.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1989.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1990.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1991.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1992.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1993.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1994.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1995.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1996.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1997.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1998.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.1999.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.2000.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.2001.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.2002.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.2003.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.2004.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.2005.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.2006.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.2007.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.2008.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.2009.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.2010.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.2011.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.2012.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.2013.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.2014.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.2015.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.2016.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.2017.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.2018.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.2019.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.2020.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.2021.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.2022.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.2023.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.2024.nc’ already there; not retrieving.
+File ‘JRA-3Q/jra3q.1DD.2025.nc’ already there; not retrieving.
+--2026-05-01 14:43:20--  ftp://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V2/MGP/
+           => ‘MGP/.listing’
+==> CWD (1) /FROGs/1DD_V2/MGP ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                     21.2K=0.07s
+
+2026-05-01 14:43:22 (21.2 KB/s) - ‘MGP/.listing’ saved [1557]
+
+Removed ‘MGP/.listing’.
+File ‘MGP/MGP.1DD.2001.nc’ already there; not retrieving.
+File ‘MGP/MGP.1DD.2002.nc’ already there; not retrieving.
+File ‘MGP/MGP.1DD.2003.nc’ already there; not retrieving.
+File ‘MGP/MGP.1DD.2004.nc’ already there; not retrieving.
+File ‘MGP/MGP.1DD.2005.nc’ already there; not retrieving.
+File ‘MGP/MGP.1DD.2006.nc’ already there; not retrieving.
+File ‘MGP/MGP.1DD.2007.nc’ already there; not retrieving.
+File ‘MGP/MGP.1DD.2008.nc’ already there; not retrieving.
+File ‘MGP/MGP.1DD.2009.nc’ already there; not retrieving.
+File ‘MGP/MGP.1DD.2010.nc’ already there; not retrieving.
+File ‘MGP/MGP.1DD.2011.nc’ already there; not retrieving.
+File ‘MGP/MGP.1DD.2012.nc’ already there; not retrieving.
+File ‘MGP/MGP.1DD.2013.nc’ already there; not retrieving.
+File ‘MGP/MGP.1DD.2014.nc’ already there; not retrieving.
+File ‘MGP/MGP.1DD.2015.nc’ already there; not retrieving.
+File ‘MGP/MGP.1DD.2016.nc’ already there; not retrieving.
+File ‘MGP/MGP.1DD.2017.nc’ already there; not retrieving.
+File ‘MGP/MGP.1DD.2018.nc’ already there; not retrieving.
+File ‘MGP/MGP.1DD.2019.nc’ already there; not retrieving.
+File ‘MGP/MGP.1DD.2020.nc’ already there; not retrieving.
+--2026-05-01 14:43:22--  ftp://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V2/PERSIANN_CCS_CDR/
+           => ‘PERSIANN_CCS_CDR/.listing’
+==> CWD (1) /FROGs/1DD_V2/PERSIANN_CCS_CDR ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                     45.2K=0.07s
+
+2026-05-01 14:43:24 (45.2 KB/s) - ‘PERSIANN_CCS_CDR/.listing’ saved [3262]
+
+Removed ‘PERSIANN_CCS_CDR/.listing’.
+File ‘PERSIANN_CCS_CDR/PERSIANN_CCS_CDR.1DD.1983.nc’ already there; not retrieving.
+File ‘PERSIANN_CCS_CDR/PERSIANN_CCS_CDR.1DD.1984.nc’ already there; not retrieving.
+File ‘PERSIANN_CCS_CDR/PERSIANN_CCS_CDR.1DD.1985.nc’ already there; not retrieving.
+File ‘PERSIANN_CCS_CDR/PERSIANN_CCS_CDR.1DD.1986.nc’ already there; not retrieving.
+File ‘PERSIANN_CCS_CDR/PERSIANN_CCS_CDR.1DD.1987.nc’ already there; not retrieving.
+File ‘PERSIANN_CCS_CDR/PERSIANN_CCS_CDR.1DD.1988.nc’ already there; not retrieving.
+File ‘PERSIANN_CCS_CDR/PERSIANN_CCS_CDR.1DD.1989.nc’ already there; not retrieving.
+File ‘PERSIANN_CCS_CDR/PERSIANN_CCS_CDR.1DD.1990.nc’ already there; not retrieving.
+File ‘PERSIANN_CCS_CDR/PERSIANN_CCS_CDR.1DD.1991.nc’ already there; not retrieving.
+File ‘PERSIANN_CCS_CDR/PERSIANN_CCS_CDR.1DD.1992.nc’ already there; not retrieving.
+File ‘PERSIANN_CCS_CDR/PERSIANN_CCS_CDR.1DD.1993.nc’ already there; not retrieving.
+File ‘PERSIANN_CCS_CDR/PERSIANN_CCS_CDR.1DD.1994.nc’ already there; not retrieving.
+File ‘PERSIANN_CCS_CDR/PERSIANN_CCS_CDR.1DD.1996.nc’ already there; not retrieving.
+File ‘PERSIANN_CCS_CDR/PERSIANN_CCS_CDR.1DD.1997.nc’ already there; not retrieving.
+File ‘PERSIANN_CCS_CDR/PERSIANN_CCS_CDR.1DD.1998.nc’ already there; not retrieving.
+File ‘PERSIANN_CCS_CDR/PERSIANN_CCS_CDR.1DD.1999.nc’ already there; not retrieving.
+File ‘PERSIANN_CCS_CDR/PERSIANN_CCS_CDR.1DD.2000.nc’ already there; not retrieving.
+File ‘PERSIANN_CCS_CDR/PERSIANN_CCS_CDR.1DD.2001.nc’ already there; not retrieving.
+File ‘PERSIANN_CCS_CDR/PERSIANN_CCS_CDR.1DD.2002.nc’ already there; not retrieving.
+File ‘PERSIANN_CCS_CDR/PERSIANN_CCS_CDR.1DD.2003.nc’ already there; not retrieving.
+File ‘PERSIANN_CCS_CDR/PERSIANN_CCS_CDR.1DD.2004.nc’ already there; not retrieving.
+File ‘PERSIANN_CCS_CDR/PERSIANN_CCS_CDR.1DD.2005.nc’ already there; not retrieving.
+File ‘PERSIANN_CCS_CDR/PERSIANN_CCS_CDR.1DD.2006.nc’ already there; not retrieving.
+File ‘PERSIANN_CCS_CDR/PERSIANN_CCS_CDR.1DD.2007.nc’ already there; not retrieving.
+File ‘PERSIANN_CCS_CDR/PERSIANN_CCS_CDR.1DD.2008.nc’ already there; not retrieving.
+File ‘PERSIANN_CCS_CDR/PERSIANN_CCS_CDR.1DD.2009.nc’ already there; not retrieving.
+File ‘PERSIANN_CCS_CDR/PERSIANN_CCS_CDR.1DD.2010.nc’ already there; not retrieving.
+File ‘PERSIANN_CCS_CDR/PERSIANN_CCS_CDR.1DD.2011.nc’ already there; not retrieving.
+File ‘PERSIANN_CCS_CDR/PERSIANN_CCS_CDR.1DD.2012.nc’ already there; not retrieving.
+File ‘PERSIANN_CCS_CDR/PERSIANN_CCS_CDR.1DD.2013.nc’ already there; not retrieving.
+File ‘PERSIANN_CCS_CDR/PERSIANN_CCS_CDR.1DD.2014.nc’ already there; not retrieving.
+File ‘PERSIANN_CCS_CDR/PERSIANN_CCS_CDR.1DD.2015.nc’ already there; not retrieving.
+File ‘PERSIANN_CCS_CDR/PERSIANN_CCS_CDR.1DD.2016.nc’ already there; not retrieving.
+File ‘PERSIANN_CCS_CDR/PERSIANN_CCS_CDR.1DD.2017.nc’ already there; not retrieving.
+File ‘PERSIANN_CCS_CDR/PERSIANN_CCS_CDR.1DD.2018.nc’ already there; not retrieving.
+File ‘PERSIANN_CCS_CDR/PERSIANN_CCS_CDR.1DD.2019.nc’ already there; not retrieving.
+File ‘PERSIANN_CCS_CDR/PERSIANN_CCS_CDR.1DD.2020.nc’ already there; not retrieving.
+--2026-05-01 14:43:24--  ftp://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V2/PERSIANN_CDR_v1r1/
+           => ‘PERSIANN_CDR_v1r1/.listing’
+==> CWD (1) /FROGs/1DD_V2/PERSIANN_CDR_v1r1 ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                     28.7K=0.1s
+
+2026-05-01 14:43:26 (28.7 KB/s) - ‘PERSIANN_CDR_v1r1/.listing’ saved [3687]
+
+Removed ‘PERSIANN_CDR_v1r1/.listing’.
+File ‘PERSIANN_CDR_v1r1/PERSIANN-CDRv1r1.1DD.1983.nc’ already there; not retrieving.
+File ‘PERSIANN_CDR_v1r1/PERSIANN-CDRv1r1.1DD.1984.nc’ already there; not retrieving.
+File ‘PERSIANN_CDR_v1r1/PERSIANN-CDRv1r1.1DD.1985.nc’ already there; not retrieving.
+File ‘PERSIANN_CDR_v1r1/PERSIANN-CDRv1r1.1DD.1986.nc’ already there; not retrieving.
+File ‘PERSIANN_CDR_v1r1/PERSIANN-CDRv1r1.1DD.1987.nc’ already there; not retrieving.
+File ‘PERSIANN_CDR_v1r1/PERSIANN-CDRv1r1.1DD.1988.nc’ already there; not retrieving.
+File ‘PERSIANN_CDR_v1r1/PERSIANN-CDRv1r1.1DD.1989.nc’ already there; not retrieving.
+File ‘PERSIANN_CDR_v1r1/PERSIANN-CDRv1r1.1DD.1990.nc’ already there; not retrieving.
+File ‘PERSIANN_CDR_v1r1/PERSIANN-CDRv1r1.1DD.1991.nc’ already there; not retrieving.
+File ‘PERSIANN_CDR_v1r1/PERSIANN-CDRv1r1.1DD.1992.nc’ already there; not retrieving.
+File ‘PERSIANN_CDR_v1r1/PERSIANN-CDRv1r1.1DD.1993.nc’ already there; not retrieving.
+File ‘PERSIANN_CDR_v1r1/PERSIANN-CDRv1r1.1DD.1994.nc’ already there; not retrieving.
+File ‘PERSIANN_CDR_v1r1/PERSIANN-CDRv1r1.1DD.1995.nc’ already there; not retrieving.
+File ‘PERSIANN_CDR_v1r1/PERSIANN-CDRv1r1.1DD.1996.nc’ already there; not retrieving.
+File ‘PERSIANN_CDR_v1r1/PERSIANN-CDRv1r1.1DD.1997.nc’ already there; not retrieving.
+File ‘PERSIANN_CDR_v1r1/PERSIANN-CDRv1r1.1DD.1998.nc’ already there; not retrieving.
+File ‘PERSIANN_CDR_v1r1/PERSIANN-CDRv1r1.1DD.1999.nc’ already there; not retrieving.
+File ‘PERSIANN_CDR_v1r1/PERSIANN-CDRv1r1.1DD.2000.nc’ already there; not retrieving.
+File ‘PERSIANN_CDR_v1r1/PERSIANN-CDRv1r1.1DD.2001.nc’ already there; not retrieving.
+File ‘PERSIANN_CDR_v1r1/PERSIANN-CDRv1r1.1DD.2002.nc’ already there; not retrieving.
+File ‘PERSIANN_CDR_v1r1/PERSIANN-CDRv1r1.1DD.2003.nc’ already there; not retrieving.
+File ‘PERSIANN_CDR_v1r1/PERSIANN-CDRv1r1.1DD.2004.nc’ already there; not retrieving.
+File ‘PERSIANN_CDR_v1r1/PERSIANN-CDRv1r1.1DD.2005.nc’ already there; not retrieving.
+File ‘PERSIANN_CDR_v1r1/PERSIANN-CDRv1r1.1DD.2006.nc’ already there; not retrieving.
+File ‘PERSIANN_CDR_v1r1/PERSIANN-CDRv1r1.1DD.2007.nc’ already there; not retrieving.
+File ‘PERSIANN_CDR_v1r1/PERSIANN-CDRv1r1.1DD.2008.nc’ already there; not retrieving.
+File ‘PERSIANN_CDR_v1r1/PERSIANN-CDRv1r1.1DD.2009.nc’ already there; not retrieving.
+File ‘PERSIANN_CDR_v1r1/PERSIANN-CDRv1r1.1DD.2010.nc’ already there; not retrieving.
+File ‘PERSIANN_CDR_v1r1/PERSIANN-CDRv1r1.1DD.2011.nc’ already there; not retrieving.
+File ‘PERSIANN_CDR_v1r1/PERSIANN-CDRv1r1.1DD.2012.nc’ already there; not retrieving.
+File ‘PERSIANN_CDR_v1r1/PERSIANN-CDRv1r1.1DD.2013.nc’ already there; not retrieving.
+File ‘PERSIANN_CDR_v1r1/PERSIANN-CDRv1r1.1DD.2014.nc’ already there; not retrieving.
+File ‘PERSIANN_CDR_v1r1/PERSIANN-CDRv1r1.1DD.2015.nc’ already there; not retrieving.
+File ‘PERSIANN_CDR_v1r1/PERSIANN-CDRv1r1.1DD.2016.nc’ already there; not retrieving.
+File ‘PERSIANN_CDR_v1r1/PERSIANN-CDRv1r1.1DD.2017.nc’ already there; not retrieving.
+File ‘PERSIANN_CDR_v1r1/PERSIANN-CDRv1r1.1DD.2018.nc’ already there; not retrieving.
+File ‘PERSIANN_CDR_v1r1/PERSIANN-CDRv1r1.1DD.2019.nc’ already there; not retrieving.
+File ‘PERSIANN_CDR_v1r1/PERSIANN-CDRv1r1.1DD.2020.nc’ already there; not retrieving.
+File ‘PERSIANN_CDR_v1r1/PERSIANN-CDRv1r1.1DD.2021.nc’ already there; not retrieving.
+File ‘PERSIANN_CDR_v1r1/PERSIANN-CDRv1r1.1DD.2022.nc’ already there; not retrieving.
+File ‘PERSIANN_CDR_v1r1/PERSIANN-CDRv1r1.1DD.2023.nc’ already there; not retrieving.
+File ‘PERSIANN_CDR_v1r1/PERSIANN-CDRv1r1.1DD.2025.nc’ already there; not retrieving.
+--2026-05-01 14:43:26--  ftp://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V2/PrISM/
+           => ‘PrISM/.listing’
+==> CWD (1) /FROGs/1DD_V2/PrISM ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                     41.5K=0.03s
+
+2026-05-01 14:43:28 (41.5 KB/s) - ‘PrISM/.listing’ saved [1302]
+
+Removed ‘PrISM/.listing’.
+File ‘PrISM/PrISM_SMOS.1DD.2010.nc’ already there; not retrieving.
+File ‘PrISM/PrISM_SMOS.1DD.2011.nc’ already there; not retrieving.
+File ‘PrISM/PrISM_SMOS.1DD.2012.nc’ already there; not retrieving.
+File ‘PrISM/PrISM_SMOS.1DD.2013.nc’ already there; not retrieving.
+File ‘PrISM/PrISM_SMOS.1DD.2014.nc’ already there; not retrieving.
+File ‘PrISM/PrISM_SMOS.1DD.2015.nc’ already there; not retrieving.
+File ‘PrISM/PrISM_SMOS.1DD.2016.nc’ already there; not retrieving.
+File ‘PrISM/PrISM_SMOS.1DD.2017.nc’ already there; not retrieving.
+File ‘PrISM/PrISM_SMOS.1DD.2018.nc’ already there; not retrieving.
+File ‘PrISM/PrISM_SMOS.1DD.2019.nc’ already there; not retrieving.
+File ‘PrISM/PrISM_SMOS.1DD.2020.nc’ already there; not retrieving.
+File ‘PrISM/PrISM_SMOS.1DD.2021.nc’ already there; not retrieving.
+File ‘PrISM/PrISM_SMOS.1DD.2022.nc’ already there; not retrieving.
+File ‘PrISM/PrISM_SMOS.1DD.2023.nc’ already there; not retrieving.
+File ‘PrISM/PrISM_SMOS.1DD.2024.nc’ already there; not retrieving.
+--2026-05-01 14:43:28--  ftp://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V2/REGEN_ALL_V1-2019/
+           => ‘REGEN_ALL_V1-2019/.listing’
+==> CWD (1) /FROGs/1DD_V2/REGEN_ALL_V1-2019 ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                     17.5K=0.3s
+
+2026-05-01 14:43:30 (17.5 KB/s) - ‘REGEN_ALL_V1-2019/.listing’ saved [5879]
+
+Removed ‘REGEN_ALL_V1-2019/.listing’.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1950.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1951.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1952.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1953.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1954.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1955.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1956.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1957.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1958.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1959.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1960.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1961.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1962.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1963.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1964.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1965.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1966.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1967.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1968.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1969.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1970.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1971.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1972.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1973.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1974.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1975.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1976.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1977.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1978.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1979.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1980.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1981.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1982.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1983.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1984.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1985.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1986.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1987.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1988.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1989.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1990.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1991.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1992.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1993.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1994.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1995.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1996.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1997.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1998.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_1999.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_2000.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_2001.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_2002.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_2003.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_2004.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_2005.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_2006.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_2007.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_2008.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_2009.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_2010.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_2011.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_2012.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_2013.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_2014.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_2015.nc’ already there; not retrieving.
+File ‘REGEN_ALL_V1-2019/REGEN_AllStns_V1-2019_2016.nc’ already there; not retrieving.
+--2026-05-01 14:43:31--  ftp://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V2/REGEN_LONG_V1-2019/
+           => ‘REGEN_LONG_V1-2019/.listing’
+==> CWD (1) /FROGs/1DD_V2/REGEN_LONG_V1-2019 ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                     25.5K=0.2s
+
+2026-05-01 14:43:32 (25.5 KB/s) - ‘REGEN_LONG_V1-2019/.listing’ saved [5759]
+
+Removed ‘REGEN_LONG_V1-2019/.listing’.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1950.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1951.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1952.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1953.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1954.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1955.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1956.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1957.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1958.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1959.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1960.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1961.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1962.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1963.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1964.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1965.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1966.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1967.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1968.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1969.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1970.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1971.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1972.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1973.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1974.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1975.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1976.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1977.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1978.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1979.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1980.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1981.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1982.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1983.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1984.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1985.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1986.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1987.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1988.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1989.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1990.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1991.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1992.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1993.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1994.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1995.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1996.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1997.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1998.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_1999.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_2000.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_2001.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_2002.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_2003.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_2004.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_2010.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_2011.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_2012.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_2013.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_2014.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_2015.nc’ already there; not retrieving.
+File ‘REGEN_LONG_V1-2019/REGEN_LongTermStns_V1-2019_2016.nc’ already there; not retrieving.
+--2026-05-01 14:43:33--  ftp://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V2/SM2RAIN-ASCAT_v1.5/
+           => ‘SM2RAIN-ASCAT_v1.5/.listing’
+==> CWD (1) /FROGs/1DD_V2/SM2RAIN-ASCAT_v1.5 ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                     19.2K=0.07s
+
+2026-05-01 14:43:35 (19.2 KB/s) - ‘SM2RAIN-ASCAT_v1.5/.listing’ saved [1347]
+
+Removed ‘SM2RAIN-ASCAT_v1.5/.listing’.
+File ‘SM2RAIN-ASCAT_v1.5/SM2RAIN-ASCAT.1DD.2007.nc’ already there; not retrieving.
+File ‘SM2RAIN-ASCAT_v1.5/SM2RAIN-ASCAT.1DD.2008.nc’ already there; not retrieving.
+File ‘SM2RAIN-ASCAT_v1.5/SM2RAIN-ASCAT.1DD.2009.nc’ already there; not retrieving.
+File ‘SM2RAIN-ASCAT_v1.5/SM2RAIN-ASCAT.1DD.2010.nc’ already there; not retrieving.
+File ‘SM2RAIN-ASCAT_v1.5/SM2RAIN-ASCAT.1DD.2011.nc’ already there; not retrieving.
+File ‘SM2RAIN-ASCAT_v1.5/SM2RAIN-ASCAT.1DD.2012.nc’ already there; not retrieving.
+File ‘SM2RAIN-ASCAT_v1.5/SM2RAIN-ASCAT.1DD.2013.nc’ already there; not retrieving.
+File ‘SM2RAIN-ASCAT_v1.5/SM2RAIN-ASCAT.1DD.2014.nc’ already there; not retrieving.
+File ‘SM2RAIN-ASCAT_v1.5/SM2RAIN-ASCAT.1DD.2015.nc’ already there; not retrieving.
+File ‘SM2RAIN-ASCAT_v1.5/SM2RAIN-ASCAT.1DD.2016.nc’ already there; not retrieving.
+File ‘SM2RAIN-ASCAT_v1.5/SM2RAIN-ASCAT.1DD.2017.nc’ already there; not retrieving.
+File ‘SM2RAIN-ASCAT_v1.5/SM2RAIN-ASCAT.1DD.2018.nc’ already there; not retrieving.
+File ‘SM2RAIN-ASCAT_v1.5/SM2RAIN-ASCAT.1DD.2019.nc’ already there; not retrieving.
+File ‘SM2RAIN-ASCAT_v1.5/SM2RAIN-ASCAT.1DD.2020.nc’ already there; not retrieving.
+File ‘SM2RAIN-ASCAT_v1.5/SM2RAIN-ASCAT.1DD.2021.nc’ already there; not retrieving.
+--2026-05-01 14:43:35--  ftp://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V2/SM2RAIN-ASCAT_v2.1.2n/
+           => ‘SM2RAIN-ASCAT_v2.1.2n/.listing’
+==> CWD (1) /FROGs/1DD_V2/SM2RAIN-ASCAT_v2.1.2n ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                     14.5K=0.1s
+
+2026-05-01 14:43:37 (14.5 KB/s) - ‘SM2RAIN-ASCAT_v2.1.2n/.listing’ saved [1605]
+
+Removed ‘SM2RAIN-ASCAT_v2.1.2n/.listing’.
+File ‘SM2RAIN-ASCAT_v2.1.2n/SM2RAIN_ASCAT_01_v2.1.2n.1DD.2007.nc’ already there; not retrieving.
+File ‘SM2RAIN-ASCAT_v2.1.2n/SM2RAIN_ASCAT_01_v2.1.2n.1DD.2008.nc’ already there; not retrieving.
+File ‘SM2RAIN-ASCAT_v2.1.2n/SM2RAIN_ASCAT_01_v2.1.2n.1DD.2009.nc’ already there; not retrieving.
+File ‘SM2RAIN-ASCAT_v2.1.2n/SM2RAIN_ASCAT_01_v2.1.2n.1DD.2010.nc’ already there; not retrieving.
+File ‘SM2RAIN-ASCAT_v2.1.2n/SM2RAIN_ASCAT_01_v2.1.2n.1DD.2011.nc’ already there; not retrieving.
+File ‘SM2RAIN-ASCAT_v2.1.2n/SM2RAIN_ASCAT_01_v2.1.2n.1DD.2012.nc’ already there; not retrieving.
+File ‘SM2RAIN-ASCAT_v2.1.2n/SM2RAIN_ASCAT_01_v2.1.2n.1DD.2013.nc’ already there; not retrieving.
+File ‘SM2RAIN-ASCAT_v2.1.2n/SM2RAIN_ASCAT_01_v2.1.2n.1DD.2014.nc’ already there; not retrieving.
+File ‘SM2RAIN-ASCAT_v2.1.2n/SM2RAIN_ASCAT_01_v2.1.2n.1DD.2015.nc’ already there; not retrieving.
+File ‘SM2RAIN-ASCAT_v2.1.2n/SM2RAIN_ASCAT_01_v2.1.2n.1DD.2016.nc’ already there; not retrieving.
+File ‘SM2RAIN-ASCAT_v2.1.2n/SM2RAIN_ASCAT_01_v2.1.2n.1DD.2017.nc’ already there; not retrieving.
+File ‘SM2RAIN-ASCAT_v2.1.2n/SM2RAIN_ASCAT_01_v2.1.2n.1DD.2018.nc’ already there; not retrieving.
+File ‘SM2RAIN-ASCAT_v2.1.2n/SM2RAIN_ASCAT_01_v2.1.2n.1DD.2019.nc’ already there; not retrieving.
+File ‘SM2RAIN-ASCAT_v2.1.2n/SM2RAIN_ASCAT_01_v2.1.2n.1DD.2020.nc’ already there; not retrieving.
+File ‘SM2RAIN-ASCAT_v2.1.2n/SM2RAIN_ASCAT_01_v2.1.2n.1DD.2021.nc’ already there; not retrieving.
+File ‘SM2RAIN-ASCAT_v2.1.2n/SM2RAIN_ASCAT_01_v2.1.2n.1DD.2022.nc’ already there; not retrieving.
+--2026-05-01 14:43:37--  ftp://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V2/TAMSAT_v3.1/
+           => ‘TAMSAT_v3.1/.listing’
+==> CWD (1) /FROGs/1DD_V2/TAMSAT_v3.1 ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                     30.2K=0.1s
+
+2026-05-01 14:43:38 (30.2 KB/s) - ‘TAMSAT_v3.1/.listing’ saved [3514]
+
+Removed ‘TAMSAT_v3.1/.listing’.
+File ‘TAMSAT_v3.1/TAMSATv3.1.1983.1DD.nc’ already there; not retrieving.
+File ‘TAMSAT_v3.1/TAMSATv3.1.1984.1DD.nc’ already there; not retrieving.
+File ‘TAMSAT_v3.1/TAMSATv3.1.1985.1DD.nc’ already there; not retrieving.
+File ‘TAMSAT_v3.1/TAMSATv3.1.1986.1DD.nc’ already there; not retrieving.
+File ‘TAMSAT_v3.1/TAMSATv3.1.1987.1DD.nc’ already there; not retrieving.
+File ‘TAMSAT_v3.1/TAMSATv3.1.1988.1DD.nc’ already there; not retrieving.
+File ‘TAMSAT_v3.1/TAMSATv3.1.1989.1DD.nc’ already there; not retrieving.
+File ‘TAMSAT_v3.1/TAMSATv3.1.1990.1DD.nc’ already there; not retrieving.
+File ‘TAMSAT_v3.1/TAMSATv3.1.1991.1DD.nc’ already there; not retrieving.
+File ‘TAMSAT_v3.1/TAMSATv3.1.1992.1DD.nc’ already there; not retrieving.
+File ‘TAMSAT_v3.1/TAMSATv3.1.1993.1DD.nc’ already there; not retrieving.
+File ‘TAMSAT_v3.1/TAMSATv3.1.1994.1DD.nc’ already there; not retrieving.
+File ‘TAMSAT_v3.1/TAMSATv3.1.1995.1DD.nc’ already there; not retrieving.
+File ‘TAMSAT_v3.1/TAMSATv3.1.1996.1DD.nc’ already there; not retrieving.
+File ‘TAMSAT_v3.1/TAMSATv3.1.1997.1DD.nc’ already there; not retrieving.
+File ‘TAMSAT_v3.1/TAMSATv3.1.1998.1DD.nc’ already there; not retrieving.
+File ‘TAMSAT_v3.1/TAMSATv3.1.1999.1DD.nc’ already there; not retrieving.
+File ‘TAMSAT_v3.1/TAMSATv3.1.2000.1DD.nc’ already there; not retrieving.
+File ‘TAMSAT_v3.1/TAMSATv3.1.2001.1DD.nc’ already there; not retrieving.
+File ‘TAMSAT_v3.1/TAMSATv3.1.2002.1DD.nc’ already there; not retrieving.
+File ‘TAMSAT_v3.1/TAMSATv3.1.2003.1DD.nc’ already there; not retrieving.
+File ‘TAMSAT_v3.1/TAMSATv3.1.2004.1DD.nc’ already there; not retrieving.
+File ‘TAMSAT_v3.1/TAMSATv3.1.2005.1DD.nc’ already there; not retrieving.
+File ‘TAMSAT_v3.1/TAMSATv3.1.2006.1DD.nc’ already there; not retrieving.
+File ‘TAMSAT_v3.1/TAMSATv3.1.2007.1DD.nc’ already there; not retrieving.
+File ‘TAMSAT_v3.1/TAMSATv3.1.2008.1DD.nc’ already there; not retrieving.
+File ‘TAMSAT_v3.1/TAMSATv3.1.2009.1DD.nc’ already there; not retrieving.
+File ‘TAMSAT_v3.1/TAMSATv3.1.2010.1DD.nc’ already there; not retrieving.
+File ‘TAMSAT_v3.1/TAMSATv3.1.2011.1DD.nc’ already there; not retrieving.
+File ‘TAMSAT_v3.1/TAMSATv3.1.2012.1DD.nc’ already there; not retrieving.
+File ‘TAMSAT_v3.1/TAMSATv3.1.2013.1DD.nc’ already there; not retrieving.
+File ‘TAMSAT_v3.1/TAMSATv3.1.2014.1DD.nc’ already there; not retrieving.
+File ‘TAMSAT_v3.1/TAMSATv3.1.2015.1DD.nc’ already there; not retrieving.
+File ‘TAMSAT_v3.1/TAMSATv3.1.2016.1DD.nc’ already there; not retrieving.
+File ‘TAMSAT_v3.1/TAMSATv3.1.2017.1DD.nc’ already there; not retrieving.
+File ‘TAMSAT_v3.1/TAMSATv3.1.2018.1DD.nc’ already there; not retrieving.
+File ‘TAMSAT_v3.1/TAMSATv3.1.2019.1DD.nc’ already there; not retrieving.
+File ‘TAMSAT_v3.1/TAMSATv3.1.2020.1DD.nc’ already there; not retrieving.
+File ‘TAMSAT_v3.1/TAMSATv3.1.2021.1DD.nc’ already there; not retrieving.
+File ‘TAMSAT_v3.1/TAMSATv3.1.2022.1DD.nc’ already there; not retrieving.
+File ‘TAMSAT_v3.1/TAMSATv3.1.2023.1DD.nc’ already there; not retrieving.
+File ‘TAMSAT_v3.1/TAMSATv3.1.2024.1DD.nc’ already there; not retrieving.
+File ‘TAMSAT_v3.1/TAMSATv3.1.2025.1DD.nc’ already there; not retrieving.
+--2026-05-01 14:43:39--  ftp://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V2/TAPEER_v1.5/
+           => ‘TAPEER_v1.5/.listing’
+==> CWD (1) /FROGs/1DD_V2/TAPEER_v1.5 ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                     10.3K=0.1s
+
+2026-05-01 14:43:41 (10.3 KB/s) - ‘TAPEER_v1.5/.listing’ saved [1052]
+
+Removed ‘TAPEER_v1.5/.listing’.
+File ‘TAPEER_v1.5/TAPEER-BRAIN-1-5.1DD.2011.nc’ already there; not retrieving.
+File ‘TAPEER_v1.5/TAPEER-BRAIN-1-5.1DD.2012.nc’ already there; not retrieving.
+File ‘TAPEER_v1.5/TAPEER-BRAIN-1-5.1DD.2013.nc’ already there; not retrieving.
+File ‘TAPEER_v1.5/TAPEER-BRAIN-1-5.1DD.2014.nc’ already there; not retrieving.
+File ‘TAPEER_v1.5/TAPEER-BRAIN-1-5.1DD.2015.nc’ already there; not retrieving.
+File ‘TAPEER_v1.5/TAPEER-BRAIN-1-5.1DD.2016.nc’ already there; not retrieving.
+File ‘TAPEER_v1.5/TAPEER-BRAIN-1-5.1DD.2017.nc’ already there; not retrieving.
+File ‘TAPEER_v1.5/TAPEER-BRAIN-1-5.1DD.2018.nc’ already there; not retrieving.
+File ‘TAPEER_v1.5/TAPEER-BRAIN-1-5.1DD.2019.nc’ already there; not retrieving.
+File ‘TAPEER_v1.5/TAPEER-BRAIN-1-5.1DD.2020.nc’ already there; not retrieving.
+File ‘TAPEER_v1.5/TAPEER-BRAIN-1-5.1DD.2021.nc’ already there; not retrieving.
+[2026-05-01 14:43:41] Mirror complete
