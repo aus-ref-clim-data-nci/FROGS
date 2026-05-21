@@ -28,11 +28,11 @@ We've downloaded 2 versions of the FROGS data to:
 ```
 # 1DD_V1:
 
-/g/data/ia39/aus-ref-clim-data-nci/frogs/data/1DD_V1/<dataset>/<files>
+/g/data/jt48/aus-ref-clim-data-nci/frogs/data/1DD_V1/<dataset>/<files>
 
 # 1DD_V2
 
-/g/data/ia39/aus-ref-clim-data-nci/frogs/data/1DD_V2/<dataset>/<files>
+/g/data/jt48/aus-ref-clim-data-nci/frogs/data/1DD_V2/<dataset>/<files>
 
 ```
 
